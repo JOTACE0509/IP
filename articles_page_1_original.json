@@ -1,0 +1,3535 @@
+[
+    {
+        "uid": "WOS:000329682200014",
+        "title": "Wild gudgeons (<i>Gobio gobio</i>) from French rivers are contaminated by microplastics: Preliminary study and first evidence",
+        "types": [
+            "Article"
+        ],
+        "sourceTypes": [
+            "Article"
+        ],
+        "source": {
+            "sourceTitle": "ENVIRONMENTAL RESEARCH",
+            "publishYear": 2014,
+            "publishMonth": "JAN",
+            "volume": "128",
+            "pages": {
+                "range": "98-100",
+                "begin": "98",
+                "end": "100",
+                "count": 3
+            }
+        },
+        "names": {
+            "authors": [
+                {
+                    "displayName": "Sanchez, Wilfried",
+                    "wosStandard": "Sanchez, W",
+                    "researcherId": "FVG-4495-2022"
+                },
+                {
+                    "displayName": "Bender, Coline",
+                    "wosStandard": "Bender, C",
+                    "researcherId": "CDU-7439-2022"
+                },
+                {
+                    "displayName": "Porcher, Jean-Marc",
+                    "wosStandard": "Porcher, JM",
+                    "researcherId": "S-7342-2018"
+                }
+            ]
+        },
+        "links": {
+            "record": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000329682200014&DestLinkType=FullRecord&DestApp=WOS_CPL",
+            "citingArticles": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000329682200014&DestLinkType=CitingArticles&DestApp=WOS_CPL",
+            "references": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000329682200014&DestLinkType=CitedReferences&DestApp=WOS",
+            "related": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000329682200014&DestLinkType=RelatedRecords&DestApp=WOS_CPL"
+        },
+        "citations": [
+            {
+                "db": "WOS",
+                "count": 280
+            }
+        ],
+        "identifiers": {
+            "doi": "10.1016/j.envres.2013.11.004",
+            "issn": "0013-9351",
+            "eissn": "1096-0953",
+            "pmid": "24295902"
+        },
+        "keywords": {
+            "authorKeywords": [
+                "Fish",
+                "Gudgeon",
+                "Gobio gobio",
+                "Rivers",
+                "Microplastics"
+            ]
+        }
+    },
+    {
+        "uid": "WOS:000329266600018",
+        "title": "Optimal scaling laws for ductile fracture derived from strain-gradient microplasticity",
+        "types": [
+            "Article"
+        ],
+        "sourceTypes": [
+            "Article"
+        ],
+        "source": {
+            "sourceTitle": "JOURNAL OF THE MECHANICS AND PHYSICS OF SOLIDS",
+            "publishYear": 2014,
+            "publishMonth": "JAN",
+            "volume": "62",
+            "specialIssue": "SI",
+            "pages": {
+                "range": "295-311",
+                "begin": "295",
+                "end": "311",
+                "count": 17
+            }
+        },
+        "names": {
+            "authors": [
+                {
+                    "displayName": "Fokoua, Landry",
+                    "wosStandard": "Fokoua, L",
+                    "researcherId": "EXK-6911-2022"
+                },
+                {
+                    "displayName": "Conti, Sergio",
+                    "wosStandard": "Conti, S",
+                    "researcherId": "B-3214-2009"
+                },
+                {
+                    "displayName": "Ortiz, Michael",
+                    "wosStandard": "Ortiz, M",
+                    "researcherId": "INA-8742-2023"
+                }
+            ]
+        },
+        "links": {
+            "record": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000329266600018&DestLinkType=FullRecord&DestApp=WOS_CPL",
+            "citingArticles": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000329266600018&DestLinkType=CitingArticles&DestApp=WOS_CPL",
+            "references": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000329266600018&DestLinkType=CitedReferences&DestApp=WOS",
+            "related": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000329266600018&DestLinkType=RelatedRecords&DestApp=WOS_CPL"
+        },
+        "citations": [
+            {
+                "db": "WOS",
+                "count": 15
+            }
+        ],
+        "identifiers": {
+            "doi": "10.1016/j.jmps.2013.11.002",
+            "issn": "0022-5096",
+            "eissn": "1873-4782"
+        },
+        "keywords": {
+            "authorKeywords": [
+                "Ductile fracture",
+                "Strain-gradient plasticity",
+                "Multiscale analysis",
+                "Optimal scaling",
+                "Variational models"
+            ]
+        }
+    },
+    {
+        "uid": "WOS:000329419200020",
+        "title": "A new analytical approach for monitoring microplastics in marine sediments",
+        "types": [
+            "Article"
+        ],
+        "sourceTypes": [
+            "Article"
+        ],
+        "source": {
+            "sourceTitle": "ENVIRONMENTAL POLLUTION",
+            "publishYear": 2014,
+            "publishMonth": "JAN",
+            "volume": "184",
+            "specialIssue": "SI",
+            "pages": {
+                "range": "161-169",
+                "begin": "161",
+                "end": "169",
+                "count": 9
+            }
+        },
+        "names": {
+            "authors": [
+                {
+                    "displayName": "Nuelle, Marie-Theres",
+                    "wosStandard": "Nuelle, MT",
+                    "researcherId": "FQU-4469-2022"
+                },
+                {
+                    "displayName": "Dekiff, Jens H.",
+                    "wosStandard": "Dekiff, JH",
+                    "researcherId": "ESL-5849-2022"
+                },
+                {
+                    "displayName": "Remy, Dominique",
+                    "wosStandard": "Remy, D",
+                    "researcherId": "FTI-1782-2022"
+                },
+                {
+                    "displayName": "Fries, Elke",
+                    "wosStandard": "Fries, E",
+                    "researcherId": "EYK-8564-2022"
+                }
+            ]
+        },
+        "links": {
+            "record": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000329419200020&DestLinkType=FullRecord&DestApp=WOS_CPL",
+            "citingArticles": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000329419200020&DestLinkType=CitingArticles&DestApp=WOS_CPL",
+            "references": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000329419200020&DestLinkType=CitedReferences&DestApp=WOS",
+            "related": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000329419200020&DestLinkType=RelatedRecords&DestApp=WOS_CPL"
+        },
+        "citations": [
+            {
+                "db": "WOS",
+                "count": 951
+            }
+        ],
+        "identifiers": {
+            "doi": "10.1016/j.envpol.2013.07.027",
+            "issn": "0269-7491",
+            "eissn": "1873-6424",
+            "pmid": "24051349"
+        },
+        "keywords": {
+            "authorKeywords": [
+                "Density separation",
+                "Marine plastic debris",
+                "North Sea",
+                "Pyrolysis",
+                "Gas chromatography"
+            ]
+        }
+    },
+    {
+        "uid": "WOS:000331672500042",
+        "title": "The present and future of microplastic pollution in the marine environment",
+        "types": [
+            "Review"
+        ],
+        "sourceTypes": [
+            "Review"
+        ],
+        "source": {
+            "sourceTitle": "ENVIRONMENTAL POLLUTION",
+            "publishYear": 2014,
+            "publishMonth": "FEB",
+            "volume": "185",
+            "pages": {
+                "range": "352-364",
+                "begin": "352",
+                "end": "364",
+                "count": 13
+            }
+        },
+        "names": {
+            "authors": [
+                {
+                    "displayName": "Ivar do Sul, Juliana A.",
+                    "wosStandard": "do Sul, JAI",
+                    "researcherId": "DVM-3480-2022"
+                },
+                {
+                    "displayName": "Costa, Monica F.",
+                    "wosStandard": "Costa, MF",
+                    "researcherId": "J-9879-2012"
+                }
+            ]
+        },
+        "links": {
+            "record": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000331672500042&DestLinkType=FullRecord&DestApp=WOS_CPL",
+            "citingArticles": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000331672500042&DestLinkType=CitingArticles&DestApp=WOS_CPL",
+            "references": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000331672500042&DestLinkType=CitedReferences&DestApp=WOS",
+            "related": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000331672500042&DestLinkType=RelatedRecords&DestApp=WOS_CPL"
+        },
+        "citations": [
+            {
+                "db": "WOS",
+                "count": 1067
+            }
+        ],
+        "identifiers": {
+            "doi": "10.1016/j.envpol.2013.10.036",
+            "issn": "0269-7491",
+            "eissn": "1873-6424",
+            "pmid": "24275078"
+        },
+        "keywords": {
+            "authorKeywords": [
+                "Marine debris",
+                "Risk to marine life",
+                "Priority pollutants",
+                "Coastal environments",
+                "POPs",
+                "Literature review"
+            ]
+        }
+    },
+    {
+        "uid": "WOS:000331672500010",
+        "title": "Ingestion and transfer of microplastics in the planktonic food web",
+        "types": [
+            "Article"
+        ],
+        "sourceTypes": [
+            "Article"
+        ],
+        "source": {
+            "sourceTitle": "ENVIRONMENTAL POLLUTION",
+            "publishYear": 2014,
+            "publishMonth": "FEB",
+            "volume": "185",
+            "pages": {
+                "range": "77-83",
+                "begin": "77",
+                "end": "83",
+                "count": 7
+            }
+        },
+        "names": {
+            "authors": [
+                {
+                    "displayName": "Setala, Outi",
+                    "wosStandard": "Setälä, O",
+                    "researcherId": "JHM-9805-2023"
+                },
+                {
+                    "displayName": "Fleming-Lehtinen, Vivi",
+                    "wosStandard": "Fleming-Lehtinen, V",
+                    "researcherId": "CQB-4134-2022"
+                },
+                {
+                    "displayName": "Lehtiniemi, Maiju",
+                    "wosStandard": "Lehtiniemi, M",
+                    "researcherId": "AAN-6012-2020"
+                }
+            ]
+        },
+        "links": {
+            "record": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000331672500010&DestLinkType=FullRecord&DestApp=WOS_CPL",
+            "citingArticles": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000331672500010&DestLinkType=CitingArticles&DestApp=WOS_CPL",
+            "references": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000331672500010&DestLinkType=CitedReferences&DestApp=WOS",
+            "related": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000331672500010&DestLinkType=RelatedRecords&DestApp=WOS_CPL"
+        },
+        "citations": [
+            {
+                "db": "WOS",
+                "count": 1113
+            }
+        ],
+        "identifiers": {
+            "doi": "10.1016/j.envpol.2013.10.013",
+            "issn": "0269-7491",
+            "eissn": "1873-6424",
+            "pmid": "24220023"
+        },
+        "keywords": {
+            "authorKeywords": [
+                "Microplastic litter",
+                "Zooplankton",
+                "Trophic transfer",
+                "Planktonic food web"
+            ]
+        }
+    },
+    {
+        "uid": "WOS:000331672500003",
+        "title": "Enhanced desorption of persistent organic pollutants from microplastics under simulated physiological conditions",
+        "types": [
+            "Article"
+        ],
+        "sourceTypes": [
+            "Article"
+        ],
+        "source": {
+            "sourceTitle": "ENVIRONMENTAL POLLUTION",
+            "publishYear": 2014,
+            "publishMonth": "FEB",
+            "volume": "185",
+            "pages": {
+                "range": "16-23",
+                "begin": "16",
+                "end": "23",
+                "count": 8
+            }
+        },
+        "names": {
+            "authors": [
+                {
+                    "displayName": "Bakir, Adil",
+                    "wosStandard": "Bakir, A",
+                    "researcherId": "DXO-4460-2022"
+                },
+                {
+                    "displayName": "Rowland, Steven J.",
+                    "wosStandard": "Rowland, SJ",
+                    "researcherId": "JFK-4987-2023"
+                },
+                {
+                    "displayName": "Thompson, Richard C.",
+                    "wosStandard": "Thompson, RC",
+                    "researcherId": "J-8879-2014"
+                }
+            ]
+        },
+        "links": {
+            "record": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000331672500003&DestLinkType=FullRecord&DestApp=WOS_CPL",
+            "citingArticles": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000331672500003&DestLinkType=CitingArticles&DestApp=WOS_CPL",
+            "references": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000331672500003&DestLinkType=CitedReferences&DestApp=WOS",
+            "related": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000331672500003&DestLinkType=RelatedRecords&DestApp=WOS_CPL"
+        },
+        "citations": [
+            {
+                "db": "WOS",
+                "count": 747
+            }
+        ],
+        "identifiers": {
+            "doi": "10.1016/j.envpol.2013.10.007",
+            "issn": "0269-7491",
+            "eissn": "1873-6424",
+            "pmid": "24212067"
+        },
+        "keywords": {
+            "authorKeywords": [
+                "Marine Strategy Framework Directive",
+                "Microplastic",
+                "Hydrophobic organic compounds",
+                "Desorption",
+                "Gut surfactant"
+            ]
+        }
+    },
+    {
+        "uid": "WOS:000331015100036",
+        "title": "Ingestion of Microplastic Has Limited Impact on a Marine Larva",
+        "types": [
+            "Article"
+        ],
+        "sourceTypes": [
+            "Article"
+        ],
+        "source": {
+            "sourceTitle": "ENVIRONMENTAL SCIENCE & TECHNOLOGY",
+            "publishYear": 2014,
+            "publishMonth": "FEB 4",
+            "volume": "48",
+            "issue": "3",
+            "pages": {
+                "range": "1638-1645",
+                "begin": "1638",
+                "end": "1645",
+                "count": 8
+            }
+        },
+        "names": {
+            "authors": [
+                {
+                    "displayName": "Kaposi, Katrina L.",
+                    "wosStandard": "Kaposi, KL",
+                    "researcherId": "CYE-3497-2022"
+                },
+                {
+                    "displayName": "Mos, Benjamin",
+                    "wosStandard": "Mos, B",
+                    "researcherId": "P-2538-2017"
+                },
+                {
+                    "displayName": "Kelaher, Brendan P.",
+                    "wosStandard": "Kelaher, BP",
+                    "researcherId": "P-3647-2017"
+                },
+                {
+                    "displayName": "Dworjanyn, Symon A.",
+                    "wosStandard": "Dworjanyn, SA",
+                    "researcherId": "O-5633-2017"
+                }
+            ]
+        },
+        "links": {
+            "record": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000331015100036&DestLinkType=FullRecord&DestApp=WOS_CPL",
+            "citingArticles": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000331015100036&DestLinkType=CitingArticles&DestApp=WOS_CPL",
+            "references": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000331015100036&DestLinkType=CitedReferences&DestApp=WOS",
+            "related": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000331015100036&DestLinkType=RelatedRecords&DestApp=WOS_CPL"
+        },
+        "citations": [
+            {
+                "db": "WOS",
+                "count": 282
+            }
+        ],
+        "identifiers": {
+            "doi": "10.1021/es404295e",
+            "issn": "0013-936X",
+            "eissn": "1520-5851",
+            "pmid": "24341789"
+        },
+        "keywords": {
+            "authorKeywords": []
+        }
+    },
+    {
+        "uid": "WOS:000332436300046",
+        "title": "Microplastics in Singapore's coastal mangrove ecosystems",
+        "types": [
+            "Article"
+        ],
+        "sourceTypes": [
+            "Article"
+        ],
+        "source": {
+            "sourceTitle": "MARINE POLLUTION BULLETIN",
+            "publishYear": 2014,
+            "publishMonth": "FEB 15",
+            "volume": "79",
+            "issue": "1-2",
+            "pages": {
+                "range": "278-283",
+                "begin": "278",
+                "end": "283",
+                "count": 6
+            }
+        },
+        "names": {
+            "authors": [
+                {
+                    "displayName": "Nor, Nur Hazimah Mohamed",
+                    "wosStandard": "Nor, NHM",
+                    "researcherId": "HSG-0932-2023"
+                },
+                {
+                    "displayName": "Obbard, Jeffrey Philip",
+                    "wosStandard": "Obbard, JP",
+                    "researcherId": "DLC-5394-2022"
+                }
+            ]
+        },
+        "links": {
+            "record": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000332436300046&DestLinkType=FullRecord&DestApp=WOS_CPL",
+            "citingArticles": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000332436300046&DestLinkType=CitingArticles&DestApp=WOS_CPL",
+            "references": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000332436300046&DestLinkType=CitedReferences&DestApp=WOS",
+            "related": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000332436300046&DestLinkType=RelatedRecords&DestApp=WOS_CPL"
+        },
+        "citations": [
+            {
+                "db": "WOS",
+                "count": 665
+            }
+        ],
+        "identifiers": {
+            "doi": "10.1016/j.marpolbul.2013.11.025",
+            "issn": "0025-326X",
+            "eissn": "1879-3363",
+            "pmid": "24365455"
+        },
+        "keywords": {
+            "authorKeywords": [
+                "Microplastic",
+                "Mangrove",
+                "Singapore",
+                "ATR-FTIR spectroscopy"
+            ]
+        }
+    },
+    {
+        "uid": "WOS:000332436300025",
+        "title": "Widespread distribution of microplastics in subsurface seawater in the NE Pacific Ocean",
+        "types": [
+            "Article"
+        ],
+        "sourceTypes": [
+            "Article"
+        ],
+        "source": {
+            "sourceTitle": "MARINE POLLUTION BULLETIN",
+            "publishYear": 2014,
+            "publishMonth": "FEB 15",
+            "volume": "79",
+            "issue": "1-2",
+            "pages": {
+                "range": "94-99",
+                "begin": "94",
+                "end": "99",
+                "count": 6
+            }
+        },
+        "names": {
+            "authors": [
+                {
+                    "displayName": "Desforges, Jean-Pierre W.",
+                    "wosStandard": "Desforges, JPW",
+                    "researcherId": "B-9217-2016"
+                },
+                {
+                    "displayName": "Galbraith, Moira",
+                    "wosStandard": "Galbraith, M",
+                    "researcherId": "GEC-9535-2022"
+                },
+                {
+                    "displayName": "Dangerfield, Neil",
+                    "wosStandard": "Dangerfield, N",
+                    "researcherId": "CLX-0137-2022"
+                },
+                {
+                    "displayName": "Ross, Peter S.",
+                    "wosStandard": "Ross, PS",
+                    "researcherId": "FXV-6843-2022"
+                }
+            ]
+        },
+        "links": {
+            "record": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000332436300025&DestLinkType=FullRecord&DestApp=WOS_CPL",
+            "citingArticles": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000332436300025&DestLinkType=CitingArticles&DestApp=WOS_CPL",
+            "references": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000332436300025&DestLinkType=CitedReferences&DestApp=WOS",
+            "related": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000332436300025&DestLinkType=RelatedRecords&DestApp=WOS_CPL"
+        },
+        "citations": [
+            {
+                "db": "WOS",
+                "count": 718
+            }
+        ],
+        "identifiers": {
+            "doi": "10.1016/j.marpolbul.2013.12.035",
+            "issn": "0025-326X",
+            "eissn": "1879-3363",
+            "pmid": "24398418"
+        },
+        "keywords": {
+            "authorKeywords": [
+                "British Columbia",
+                "Pacific Ocean",
+                "Microplastic",
+                "Tsunami debris",
+                "Litter",
+                "Plastic"
+            ]
+        }
+    },
+    {
+        "uid": "WOS:000335098300003",
+        "title": "Transport of persistent organic pollutants by microplastics in estuarine conditions",
+        "types": [
+            "Article"
+        ],
+        "sourceTypes": [
+            "Article"
+        ],
+        "source": {
+            "sourceTitle": "ESTUARINE COASTAL AND SHELF SCIENCE",
+            "publishYear": 2014,
+            "publishMonth": "MAR 1",
+            "volume": "140",
+            "pages": {
+                "range": "14-21",
+                "begin": "14",
+                "end": "21",
+                "count": 8
+            }
+        },
+        "names": {
+            "authors": [
+                {
+                    "displayName": "Bakir, Adil",
+                    "wosStandard": "Bakir, A",
+                    "researcherId": "DXO-4460-2022"
+                },
+                {
+                    "displayName": "Rowland, Steven J.",
+                    "wosStandard": "Rowland, SJ",
+                    "researcherId": "JFK-4987-2023"
+                },
+                {
+                    "displayName": "Thompson, Richard C.",
+                    "wosStandard": "Thompson, RC",
+                    "researcherId": "J-8879-2014"
+                }
+            ]
+        },
+        "links": {
+            "record": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000335098300003&DestLinkType=FullRecord&DestApp=WOS_CPL",
+            "citingArticles": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000335098300003&DestLinkType=CitingArticles&DestApp=WOS_CPL",
+            "references": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000335098300003&DestLinkType=CitedReferences&DestApp=WOS",
+            "related": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000335098300003&DestLinkType=RelatedRecords&DestApp=WOS_CPL"
+        },
+        "citations": [
+            {
+                "db": "WOS",
+                "count": 370
+            }
+        ],
+        "identifiers": {
+            "doi": "10.1016/j.ecss.2014.01.004",
+            "issn": "0272-7714",
+            "eissn": "1096-0015"
+        },
+        "keywords": {
+            "authorKeywords": [
+                "Marine Strategy Framework Directive",
+                "sorption",
+                "hydrophobic organic compounds",
+                "brackish waters",
+                "plastic particles"
+            ]
+        }
+    },
+    {
+        "uid": "WOS:000332049100034",
+        "title": "Occurrence and spatial distribution of microplastics in sediments from Norderney",
+        "types": [
+            "Article"
+        ],
+        "sourceTypes": [
+            "Article"
+        ],
+        "source": {
+            "sourceTitle": "ENVIRONMENTAL POLLUTION",
+            "publishYear": 2014,
+            "publishMonth": "MAR",
+            "volume": "186",
+            "pages": {
+                "range": "248-256",
+                "begin": "248",
+                "end": "256",
+                "count": 9
+            }
+        },
+        "names": {
+            "authors": [
+                {
+                    "displayName": "Dekiff, Jens H.",
+                    "wosStandard": "Dekiff, JH",
+                    "researcherId": "ESL-5849-2022"
+                },
+                {
+                    "displayName": "Remy, Dominique",
+                    "wosStandard": "Remy, D",
+                    "researcherId": "FTI-1782-2022"
+                },
+                {
+                    "displayName": "Klasmeier, Joerg",
+                    "wosStandard": "Klasmeier, J",
+                    "researcherId": "FEV-9127-2022"
+                },
+                {
+                    "displayName": "Fries, Elke",
+                    "wosStandard": "Fries, E",
+                    "researcherId": "EYK-8564-2022"
+                }
+            ]
+        },
+        "links": {
+            "record": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000332049100034&DestLinkType=FullRecord&DestApp=WOS_CPL",
+            "citingArticles": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000332049100034&DestLinkType=CitingArticles&DestApp=WOS_CPL",
+            "references": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000332049100034&DestLinkType=CitedReferences&DestApp=WOS",
+            "related": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000332049100034&DestLinkType=RelatedRecords&DestApp=WOS_CPL"
+        },
+        "citations": [
+            {
+                "db": "WOS",
+                "count": 414
+            }
+        ],
+        "identifiers": {
+            "doi": "10.1016/j.envpol.2013.11.019",
+            "issn": "0269-7491",
+            "eissn": "1873-6424",
+            "pmid": "24448461"
+        },
+        "keywords": {
+            "authorKeywords": [
+                "Marine plastic debris",
+                "Organic polymer additives",
+                "Microplastics",
+                "North sea",
+                "Pyrolysis",
+                "Gas chromatography",
+                "Mass spectrometry",
+                "Density separation"
+            ]
+        }
+    },
+    {
+        "uid": "WOS:000343348900037",
+        "title": "Two States Take Aim At Microplastic Beads In Personal Care Items",
+        "types": [
+            "Editorial material"
+        ],
+        "sourceTypes": [
+            "Editorial Material"
+        ],
+        "source": {
+            "sourceTitle": "CHEMICAL & ENGINEERING NEWS",
+            "publishYear": 2014,
+            "publishMonth": "MAR 3",
+            "volume": "92",
+            "issue": "9",
+            "pages": {
+                "range": "36-37",
+                "begin": "36",
+                "end": "37",
+                "count": 2
+            }
+        },
+        "names": {
+            "authors": [
+                {
+                    "displayName": "Hogue, Cheryl",
+                    "wosStandard": "Hogue, C",
+                    "researcherId": "EYS-4493-2022"
+                }
+            ]
+        },
+        "links": {
+            "record": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000343348900037&DestLinkType=FullRecord&DestApp=WOS_CPL",
+            "citingArticles": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000343348900037&DestLinkType=CitingArticles&DestApp=WOS_CPL"
+        },
+        "citations": [
+            {
+                "db": "WOS",
+                "count": 1
+            }
+        ],
+        "identifiers": {
+            "issn": "0009-2347",
+            "eissn": "1520-605X"
+        },
+        "keywords": {
+            "authorKeywords": []
+        }
+    },
+    {
+        "uid": "WOS:000331487000002",
+        "title": "Elastic-microplastic nature of wave propagation in the weakly consolidated rock",
+        "types": [
+            "Article"
+        ],
+        "sourceTypes": [
+            "Article"
+        ],
+        "source": {
+            "sourceTitle": "JOURNAL OF APPLIED GEOPHYSICS",
+            "publishYear": 2014,
+            "publishMonth": "FEB",
+            "volume": "101",
+            "pages": {
+                "range": "11-19",
+                "begin": "11",
+                "end": "19",
+                "count": 9
+            }
+        },
+        "names": {
+            "authors": [
+                {
+                    "displayName": "Mashinskii, E. I.",
+                    "wosStandard": "Mashinskii, EI",
+                    "researcherId": "DXB-7179-2022"
+                }
+            ]
+        },
+        "links": {
+            "record": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000331487000002&DestLinkType=FullRecord&DestApp=WOS_CPL",
+            "citingArticles": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000331487000002&DestLinkType=CitingArticles&DestApp=WOS_CPL",
+            "references": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000331487000002&DestLinkType=CitedReferences&DestApp=WOS",
+            "related": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000331487000002&DestLinkType=RelatedRecords&DestApp=WOS_CPL"
+        },
+        "citations": [
+            {
+                "db": "WOS",
+                "count": 7
+            }
+        ],
+        "identifiers": {
+            "doi": "10.1016/j.jappgeo.2013.11.007",
+            "issn": "0926-9851",
+            "eissn": "1879-1859"
+        },
+        "keywords": {
+            "authorKeywords": [
+                "Inelasticity",
+                "Rock's microplasticity",
+                "Deformation and time delay",
+                "Inelastic seismic parameters",
+                "Amplitude dependence of wave velocity and attenuation",
+                "Relaxation spectra of wave attenuation"
+            ]
+        }
+    },
+    {
+        "uid": "WOS:000331566200010",
+        "title": "Characterization of microplastic deformation produced in 6061-T6 by using laser shock processing",
+        "types": [
+            "Article"
+        ],
+        "sourceTypes": [
+            "Article"
+        ],
+        "source": {
+            "sourceTitle": "INTERNATIONAL JOURNAL OF ADVANCED MANUFACTURING TECHNOLOGY",
+            "publishYear": 2014,
+            "publishMonth": "MAR",
+            "volume": "71",
+            "issue": "1-4",
+            "pages": {
+                "range": "109-115",
+                "begin": "109",
+                "end": "115",
+                "count": 7
+            }
+        },
+        "names": {
+            "authors": [
+                {
+                    "displayName": "Irizalp, Simge Gencalp",
+                    "wosStandard": "Irizalp, SG",
+                    "researcherId": "FCM-8491-2022"
+                },
+                {
+                    "displayName": "Saklakoglu, Nursen",
+                    "wosStandard": "Saklakoglu, N",
+                    "researcherId": "AGT-2959-2022"
+                },
+                {
+                    "displayName": "Yilbas, Bekir Sami",
+                    "wosStandard": "Yilbas, BS",
+                    "researcherId": "C-8882-2015"
+                }
+            ]
+        },
+        "links": {
+            "record": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000331566200010&DestLinkType=FullRecord&DestApp=WOS_CPL",
+            "citingArticles": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000331566200010&DestLinkType=CitingArticles&DestApp=WOS_CPL",
+            "references": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000331566200010&DestLinkType=CitedReferences&DestApp=WOS",
+            "related": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000331566200010&DestLinkType=RelatedRecords&DestApp=WOS_CPL"
+        },
+        "citations": [
+            {
+                "db": "WOS",
+                "count": 26
+            }
+        ],
+        "identifiers": {
+            "doi": "10.1007/s00170-013-5481-0",
+            "issn": "0268-3768",
+            "eissn": "1433-3015"
+        },
+        "keywords": {
+            "authorKeywords": [
+                "Laser shock processing",
+                "Surface layer",
+                "Plastic deformation",
+                "Crystallite size",
+                "Micro-strain"
+            ]
+        }
+    },
+    {
+        "uid": "WOS:000333516400003",
+        "title": "Isolation of microplastics in biota-rich seawater samples and marine organisms",
+        "types": [
+            "Article"
+        ],
+        "sourceTypes": [
+            "Article"
+        ],
+        "source": {
+            "sourceTitle": "SCIENTIFIC REPORTS",
+            "publishYear": 2014,
+            "publishMonth": "MAR 31",
+            "volume": "4",
+            "articleNumber": "4528",
+            "pages": {
+                "count": 8
+            }
+        },
+        "names": {
+            "authors": [
+                {
+                    "displayName": "Cole, Matthew",
+                    "wosStandard": "Cole, M",
+                    "researcherId": "KHZ-6806-2024"
+                },
+                {
+                    "displayName": "Webb, Hannah",
+                    "wosStandard": "Webb, H",
+                    "researcherId": "HHL-6161-2022"
+                },
+                {
+                    "displayName": "Lindeque, Pennie K.",
+                    "wosStandard": "Lindeque, PK",
+                    "researcherId": "AAE-9193-2019"
+                },
+                {
+                    "displayName": "Fileman, Elaine S.",
+                    "wosStandard": "Fileman, ES",
+                    "researcherId": "AAB-5002-2022"
+                },
+                {
+                    "displayName": "Halsband, Claudia",
+                    "wosStandard": "Halsband, C",
+                    "researcherId": "B-7770-2008"
+                },
+                {
+                    "displayName": "Galloway, Tamara S.",
+                    "wosStandard": "Galloway, TS",
+                    "researcherId": "C-1662-2009"
+                }
+            ]
+        },
+        "links": {
+            "record": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000333516400003&DestLinkType=FullRecord&DestApp=WOS_CPL",
+            "citingArticles": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000333516400003&DestLinkType=CitingArticles&DestApp=WOS_CPL",
+            "references": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000333516400003&DestLinkType=CitedReferences&DestApp=WOS",
+            "related": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000333516400003&DestLinkType=RelatedRecords&DestApp=WOS_CPL"
+        },
+        "citations": [
+            {
+                "db": "WOS",
+                "count": 711
+            }
+        ],
+        "identifiers": {
+            "doi": "10.1038/srep04528",
+            "issn": "2045-2322",
+            "pmid": "24681661"
+        },
+        "keywords": {
+            "authorKeywords": []
+        }
+    },
+    {
+        "uid": "WOS:000332056700008",
+        "title": "Evidence of microplastics in samples of zooplankton from Portuguese coastal waters",
+        "types": [
+            "Article"
+        ],
+        "sourceTypes": [
+            "Article"
+        ],
+        "source": {
+            "sourceTitle": "MARINE ENVIRONMENTAL RESEARCH",
+            "publishYear": 2014,
+            "publishMonth": "APR",
+            "volume": "95",
+            "pages": {
+                "range": "89-95",
+                "begin": "89",
+                "end": "95",
+                "count": 7
+            }
+        },
+        "names": {
+            "authors": [
+                {
+                    "displayName": "Frias, J. P. G. L.",
+                    "wosStandard": "Frias, JPGL",
+                    "researcherId": "I-9746-2016"
+                },
+                {
+                    "displayName": "Otero, V.",
+                    "wosStandard": "Otero, V",
+                    "researcherId": "M-1934-2017"
+                },
+                {
+                    "displayName": "Sobral, P.",
+                    "wosStandard": "Sobral, P",
+                    "researcherId": "ABD-9206-2020"
+                }
+            ]
+        },
+        "links": {
+            "record": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000332056700008&DestLinkType=FullRecord&DestApp=WOS_CPL",
+            "citingArticles": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000332056700008&DestLinkType=CitingArticles&DestApp=WOS_CPL",
+            "references": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000332056700008&DestLinkType=CitedReferences&DestApp=WOS",
+            "related": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000332056700008&DestLinkType=RelatedRecords&DestApp=WOS_CPL"
+        },
+        "citations": [
+            {
+                "db": "WOS",
+                "count": 342
+            }
+        ],
+        "identifiers": {
+            "doi": "10.1016/j.marenvres.2014.01.001",
+            "issn": "0141-1136",
+            "eissn": "1879-0291",
+            "pmid": "24461782"
+        },
+        "keywords": {
+            "authorKeywords": [
+                "Microplastics",
+                "Plastic",
+                "Zooplankton",
+                "MSFD",
+                "FTIR",
+                "Portugal"
+            ]
+        }
+    },
+    {
+        "uid": "WOS:000331700400017",
+        "title": "Hardness and microplasticity of nanocrystalline and amorphous calcium phosphate coatings",
+        "types": [
+            "Article"
+        ],
+        "sourceTypes": [
+            "Article"
+        ],
+        "source": {
+            "sourceTitle": "PHYSICS OF THE SOLID STATE",
+            "publishYear": 2014,
+            "publishMonth": "FEB",
+            "volume": "56",
+            "issue": "2",
+            "pages": {
+                "range": "321-329",
+                "begin": "321",
+                "end": "329",
+                "count": 9
+            }
+        },
+        "names": {
+            "authors": [
+                {
+                    "displayName": "Ievlev, V. M.",
+                    "wosStandard": "Ievlev, VM",
+                    "researcherId": "P-9039-2019"
+                },
+                {
+                    "displayName": "Kostyuchenko, A. V.",
+                    "wosStandard": "Kostyuchenko, AV",
+                    "researcherId": "V-1072-2019"
+                },
+                {
+                    "displayName": "Darinskii, B. M.",
+                    "wosStandard": "Darinskii, BM",
+                    "researcherId": "S-3014-2019"
+                },
+                {
+                    "displayName": "Barinov, S. M.",
+                    "wosStandard": "Barinov, SM",
+                    "researcherId": "GCF-4487-2022"
+                }
+            ]
+        },
+        "links": {
+            "record": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000331700400017&DestLinkType=FullRecord&DestApp=WOS_CPL",
+            "citingArticles": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000331700400017&DestLinkType=CitingArticles&DestApp=WOS_CPL",
+            "references": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000331700400017&DestLinkType=CitedReferences&DestApp=WOS",
+            "related": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000331700400017&DestLinkType=RelatedRecords&DestApp=WOS_CPL"
+        },
+        "citations": [
+            {
+                "db": "WOS",
+                "count": 11
+            }
+        ],
+        "identifiers": {
+            "doi": "10.1134/S1063783414020127",
+            "issn": "1063-7834",
+            "eissn": "1090-6460"
+        },
+        "keywords": {
+            "authorKeywords": []
+        }
+    },
+    {
+        "uid": "WOS:000335626500021",
+        "title": "Microplastic fibers in the intertidal ecosystem surrounding Halifax Harbor, Nova Scotia",
+        "types": [
+            "Article"
+        ],
+        "sourceTypes": [
+            "Article"
+        ],
+        "source": {
+            "sourceTitle": "MARINE POLLUTION BULLETIN",
+            "publishYear": 2014,
+            "publishMonth": "APR 15",
+            "volume": "81",
+            "issue": "1",
+            "pages": {
+                "range": "69-79",
+                "begin": "69",
+                "end": "79",
+                "count": 11
+            }
+        },
+        "names": {
+            "authors": [
+                {
+                    "displayName": "Mathalon, Alysse",
+                    "wosStandard": "Mathalon, A",
+                    "researcherId": "FJR-2405-2022"
+                },
+                {
+                    "displayName": "Hill, Paul",
+                    "wosStandard": "Hill, P",
+                    "researcherId": "GFE-2033-2022"
+                }
+            ]
+        },
+        "links": {
+            "record": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000335626500021&DestLinkType=FullRecord&DestApp=WOS_CPL",
+            "citingArticles": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000335626500021&DestLinkType=CitingArticles&DestApp=WOS_CPL",
+            "references": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000335626500021&DestLinkType=CitedReferences&DestApp=WOS",
+            "related": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000335626500021&DestLinkType=RelatedRecords&DestApp=WOS_CPL"
+        },
+        "citations": [
+            {
+                "db": "WOS",
+                "count": 679
+            }
+        ],
+        "identifiers": {
+            "doi": "10.1016/j.marpolbul.2014.02.018",
+            "issn": "0025-326X",
+            "eissn": "1879-3363",
+            "pmid": "24650540"
+        },
+        "keywords": {
+            "authorKeywords": [
+                "Microplastics",
+                "Intertidal",
+                "Sediment",
+                "Mytilus edulis",
+                "Halifax",
+                "Aquaculture"
+            ]
+        }
+    },
+    {
+        "uid": "WOS:000335720100029",
+        "title": "Strong Sorption of PCBs to Nanoplastics, Microplastics, Carbon Nanotubes, and Fullerenes",
+        "types": [
+            "Article"
+        ],
+        "sourceTypes": [
+            "Article"
+        ],
+        "source": {
+            "sourceTitle": "ENVIRONMENTAL SCIENCE & TECHNOLOGY",
+            "publishYear": 2014,
+            "publishMonth": "MAY 6",
+            "volume": "48",
+            "issue": "9",
+            "pages": {
+                "range": "4869-4876",
+                "begin": "4869",
+                "end": "4876",
+                "count": 8
+            }
+        },
+        "names": {
+            "authors": [
+                {
+                    "displayName": "Velzeboer, I.",
+                    "wosStandard": "Velzeboer, I",
+                    "researcherId": "EBI-8970-2022"
+                },
+                {
+                    "displayName": "Kwadijk, C. J. A. F.",
+                    "wosStandard": "Kwadijk, CJAF",
+                    "researcherId": "ILS-2061-2023"
+                },
+                {
+                    "displayName": "Koelmans, A. A.",
+                    "wosStandard": "Koelmans, AA",
+                    "researcherId": "D-8603-2014"
+                }
+            ]
+        },
+        "links": {
+            "record": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000335720100029&DestLinkType=FullRecord&DestApp=WOS_CPL",
+            "citingArticles": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000335720100029&DestLinkType=CitingArticles&DestApp=WOS_CPL",
+            "references": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000335720100029&DestLinkType=CitedReferences&DestApp=WOS",
+            "related": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000335720100029&DestLinkType=RelatedRecords&DestApp=WOS_CPL"
+        },
+        "citations": [
+            {
+                "db": "WOS",
+                "count": 704
+            }
+        ],
+        "identifiers": {
+            "doi": "10.1021/es405721v",
+            "issn": "0013-936X",
+            "eissn": "1520-5851",
+            "pmid": "24689832"
+        },
+        "keywords": {
+            "authorKeywords": []
+        }
+    },
+    {
+        "uid": "WOS:000333159700018",
+        "title": "Effect of carbonization temperature on the microplasticity of wood-derived biocarbon",
+        "types": [
+            "Article"
+        ],
+        "sourceTypes": [
+            "Article"
+        ],
+        "source": {
+            "sourceTitle": "PHYSICS OF THE SOLID STATE",
+            "publishYear": 2014,
+            "publishMonth": "MAR",
+            "volume": "56",
+            "issue": "3",
+            "pages": {
+                "range": "538-545",
+                "begin": "538",
+                "end": "545",
+                "count": 8
+            }
+        },
+        "names": {
+            "authors": [
+                {
+                    "displayName": "Shpeizman, V. V.",
+                    "wosStandard": "Shpeizman, VV",
+                    "researcherId": "FUJ-1398-2022"
+                },
+                {
+                    "displayName": "Orlova, T. S.",
+                    "wosStandard": "Orlova, TS",
+                    "researcherId": "E-5877-2014"
+                },
+                {
+                    "displayName": "Kardashev, B. K.",
+                    "wosStandard": "Kardashev, BK",
+                    "researcherId": "FDT-6157-2022"
+                },
+                {
+                    "displayName": "Smirnov, B. I.",
+                    "wosStandard": "Smirnov, BI",
+                    "researcherId": "DUC-1967-2022"
+                },
+                {
+                    "displayName": "Gutierrez-Pardo, A.",
+                    "wosStandard": "Gutierrez-Pardo, A",
+                    "researcherId": "GAC-2375-2022"
+                },
+                {
+                    "displayName": "Ramirez-Rico, J.",
+                    "wosStandard": "Ramirez-Rico, J",
+                    "researcherId": "A-7006-2009"
+                }
+            ]
+        },
+        "links": {
+            "record": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000333159700018&DestLinkType=FullRecord&DestApp=WOS_CPL",
+            "citingArticles": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000333159700018&DestLinkType=CitingArticles&DestApp=WOS_CPL",
+            "references": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000333159700018&DestLinkType=CitedReferences&DestApp=WOS",
+            "related": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000333159700018&DestLinkType=RelatedRecords&DestApp=WOS_CPL"
+        },
+        "citations": [
+            {
+                "db": "WOS",
+                "count": 8
+            }
+        ],
+        "identifiers": {
+            "doi": "10.1134/S1063783414030305",
+            "issn": "1063-7834",
+            "eissn": "1090-6460"
+        },
+        "keywords": {
+            "authorKeywords": []
+        }
+    },
+    {
+        "uid": "WOS:000334400400025",
+        "title": "Dislocation Dissociation Strongly Influences on Frank-Read Source Nucleation and Microplasticy of Materials with Low Stacking Fault Energy",
+        "types": [
+            "Article"
+        ],
+        "sourceTypes": [
+            "Article"
+        ],
+        "source": {
+            "sourceTitle": "CHINESE PHYSICS LETTERS",
+            "publishYear": 2014,
+            "publishMonth": "APR",
+            "volume": "31",
+            "issue": "4",
+            "articleNumber": "046102",
+            "pages": {
+                "count": 4
+            }
+        },
+        "names": {
+            "authors": [
+                {
+                    "displayName": "Huang Min-Sheng",
+                    "wosStandard": "Huang, MS",
+                    "researcherId": "JPO-4103-2023"
+                },
+                {
+                    "displayName": "Zhu Ya-Xin",
+                    "wosStandard": "Zhu, YX",
+                    "researcherId": "LRG-4696-2024"
+                },
+                {
+                    "displayName": "Li Zhen-Huan",
+                    "wosStandard": "Li, ZH",
+                    "researcherId": "JQB-2709-2023"
+                }
+            ]
+        },
+        "links": {
+            "record": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000334400400025&DestLinkType=FullRecord&DestApp=WOS_CPL",
+            "citingArticles": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000334400400025&DestLinkType=CitingArticles&DestApp=WOS_CPL",
+            "references": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000334400400025&DestLinkType=CitedReferences&DestApp=WOS",
+            "related": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000334400400025&DestLinkType=RelatedRecords&DestApp=WOS_CPL"
+        },
+        "citations": [
+            {
+                "db": "WOS",
+                "count": 7
+            }
+        ],
+        "identifiers": {
+            "doi": "10.1088/0256-307X/31/4/046102",
+            "issn": "0256-307X",
+            "eissn": "1741-3540"
+        },
+        "keywords": {
+            "authorKeywords": []
+        }
+    },
+    {
+        "uid": "WOS:000358133700002",
+        "title": "Global warming releases microplastic legacy frozen in Arctic Sea ice",
+        "types": [
+            "Article"
+        ],
+        "sourceTypes": [
+            "Article"
+        ],
+        "source": {
+            "sourceTitle": "EARTHS FUTURE",
+            "publishYear": 2014,
+            "publishMonth": "JUN",
+            "volume": "2",
+            "issue": "6",
+            "pages": {
+                "range": "315-320",
+                "begin": "315",
+                "end": "320",
+                "count": 6
+            }
+        },
+        "names": {
+            "authors": [
+                {
+                    "displayName": "Obbard, Rachel W.",
+                    "wosStandard": "Obbard, RW",
+                    "researcherId": "GCY-2762-2022"
+                },
+                {
+                    "displayName": "Sadri, Saeed",
+                    "wosStandard": "Sadri, S",
+                    "researcherId": "FVP-9650-2022"
+                },
+                {
+                    "displayName": "Wong, Ying Qi",
+                    "wosStandard": "Wong, YQ",
+                    "researcherId": "EFZ-9459-2022"
+                },
+                {
+                    "displayName": "Khitun, Alexandra A.",
+                    "wosStandard": "Khitun, AA",
+                    "researcherId": "IMH-3964-2023"
+                },
+                {
+                    "displayName": "Baker, Ian",
+                    "wosStandard": "Baker, I",
+                    "researcherId": "FZY-4139-2022"
+                },
+                {
+                    "displayName": "Thompson, Richard C.",
+                    "wosStandard": "Thompson, RC",
+                    "researcherId": "J-8879-2014"
+                }
+            ]
+        },
+        "links": {
+            "record": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000358133700002&DestLinkType=FullRecord&DestApp=WOS_CPL",
+            "citingArticles": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000358133700002&DestLinkType=CitingArticles&DestApp=WOS_CPL",
+            "references": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000358133700002&DestLinkType=CitedReferences&DestApp=WOS",
+            "related": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000358133700002&DestLinkType=RelatedRecords&DestApp=WOS_CPL"
+        },
+        "citations": [
+            {
+                "db": "WOS",
+                "count": 680
+            }
+        ],
+        "identifiers": {
+            "doi": "10.1002/2014EF000240",
+            "eissn": "2328-4277"
+        },
+        "keywords": {
+            "authorKeywords": [
+                "microplastics",
+                "sea ice",
+                "Arctic",
+                "pollution"
+            ]
+        }
+    },
+    {
+        "uid": "WOS:000340527100008",
+        "title": "Microplastics in the pelagic environment around oceanic islands of the Western Tropical Atlantic Ocean",
+        "types": [
+            "Article"
+        ],
+        "sourceTypes": [
+            "Article"
+        ],
+        "source": {
+            "sourceTitle": "WATER AIR AND SOIL POLLUTION",
+            "publishYear": 2014,
+            "publishMonth": "JUL",
+            "volume": "225",
+            "issue": "7",
+            "articleNumber": "2004",
+            "pages": {
+                "count": 13
+            }
+        },
+        "names": {
+            "authors": [
+                {
+                    "displayName": "Ivar do Sul, Juliana A.",
+                    "wosStandard": "Ivar do Sul, JA",
+                    "researcherId": "DVM-3480-2022"
+                },
+                {
+                    "displayName": "Costa, Monica F.",
+                    "wosStandard": "Costa, MF",
+                    "researcherId": "J-9879-2012"
+                },
+                {
+                    "displayName": "Fillmann, Gilberto",
+                    "wosStandard": "Fillmann, G",
+                    "researcherId": "AAK-1497-2020"
+                }
+            ]
+        },
+        "links": {
+            "record": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000340527100008&DestLinkType=FullRecord&DestApp=WOS_CPL",
+            "citingArticles": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000340527100008&DestLinkType=CitingArticles&DestApp=WOS_CPL",
+            "references": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000340527100008&DestLinkType=CitedReferences&DestApp=WOS",
+            "related": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000340527100008&DestLinkType=RelatedRecords&DestApp=WOS_CPL"
+        },
+        "citations": [
+            {
+                "db": "WOS",
+                "count": 120
+            }
+        ],
+        "identifiers": {
+            "doi": "10.1007/s11270-014-2004-z",
+            "issn": "0049-6979",
+            "eissn": "1573-2932"
+        },
+        "keywords": {
+            "authorKeywords": [
+                "Pelagic ecosystems",
+                "Oceanic islands",
+                "Blue Amazon",
+                "Southern Hemisphere",
+                "Neustonic samples",
+                "Small-scale survey"
+            ]
+        }
+    },
+    {
+        "uid": "WOS:000337862300022",
+        "title": "Distribution patterns of microplastics within the plankton of a tropical estuary",
+        "types": [
+            "Article"
+        ],
+        "sourceTypes": [
+            "Article"
+        ],
+        "source": {
+            "sourceTitle": "ENVIRONMENTAL RESEARCH",
+            "publishYear": 2014,
+            "publishMonth": "JUL",
+            "volume": "132",
+            "pages": {
+                "range": "146-155",
+                "begin": "146",
+                "end": "155",
+                "count": 10
+            }
+        },
+        "names": {
+            "authors": [
+                {
+                    "displayName": "Lima, A. R. A.",
+                    "wosStandard": "Lima, ARA",
+                    "researcherId": "C-4931-2019"
+                },
+                {
+                    "displayName": "Costa, M. F.",
+                    "wosStandard": "Costa, MF",
+                    "researcherId": "J-9879-2012"
+                },
+                {
+                    "displayName": "Barletta, M.",
+                    "wosStandard": "Barletta, M",
+                    "researcherId": "D-3233-2011"
+                }
+            ]
+        },
+        "links": {
+            "record": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000337862300022&DestLinkType=FullRecord&DestApp=WOS_CPL",
+            "citingArticles": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000337862300022&DestLinkType=CitingArticles&DestApp=WOS_CPL",
+            "references": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000337862300022&DestLinkType=CitedReferences&DestApp=WOS",
+            "related": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000337862300022&DestLinkType=RelatedRecords&DestApp=WOS_CPL"
+        },
+        "citations": [
+            {
+                "db": "WOS",
+                "count": 321
+            }
+        ],
+        "identifiers": {
+            "doi": "10.1016/j.envres.2014.03.031",
+            "issn": "0013-9351",
+            "eissn": "1096-0953",
+            "pmid": "24769564"
+        },
+        "keywords": {
+            "authorKeywords": [
+                "Estuarine trophic web",
+                "Ingestion",
+                "Risk",
+                "Physical harm"
+            ]
+        }
+    },
+    {
+        "uid": "WOS:000339409900026",
+        "title": "Microplastics in the seas",
+        "types": [
+            "Editorial material"
+        ],
+        "sourceTypes": [
+            "Editorial Material"
+        ],
+        "source": {
+            "sourceTitle": "SCIENCE",
+            "publishYear": 2014,
+            "publishMonth": "JUL 11",
+            "volume": "345",
+            "issue": "6193",
+            "pages": {
+                "range": "144-145",
+                "begin": "144",
+                "end": "145",
+                "count": 2
+            }
+        },
+        "names": {
+            "authors": [
+                {
+                    "displayName": "Law, Kara Lavender",
+                    "wosStandard": "Law, KL",
+                    "researcherId": "GCT-8882-2022"
+                },
+                {
+                    "displayName": "Thompson, Richard C.",
+                    "wosStandard": "Thompson, RC",
+                    "researcherId": "J-8879-2014"
+                }
+            ]
+        },
+        "links": {
+            "record": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000339409900026&DestLinkType=FullRecord&DestApp=WOS_CPL",
+            "citingArticles": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000339409900026&DestLinkType=CitingArticles&DestApp=WOS_CPL",
+            "references": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000339409900026&DestLinkType=CitedReferences&DestApp=WOS",
+            "related": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000339409900026&DestLinkType=RelatedRecords&DestApp=WOS_CPL"
+        },
+        "citations": [
+            {
+                "db": "WOS",
+                "count": 1011
+            }
+        ],
+        "identifiers": {
+            "doi": "10.1126/science.1254065",
+            "issn": "0036-8075",
+            "eissn": "1095-9203",
+            "pmid": "25013051"
+        },
+        "keywords": {
+            "authorKeywords": []
+        }
+    },
+    {
+        "uid": "WOS:000339227500056",
+        "title": "Assimilation of Polybrominated Diphenyl Ethers from Microplastics by the Marine Amphipod, <i>Allorchestes Compressa</i>",
+        "types": [
+            "Article"
+        ],
+        "sourceTypes": [
+            "Article"
+        ],
+        "source": {
+            "sourceTitle": "ENVIRONMENTAL SCIENCE & TECHNOLOGY",
+            "publishYear": 2014,
+            "publishMonth": "JUL 15",
+            "volume": "48",
+            "issue": "14",
+            "pages": {
+                "range": "8127-8134",
+                "begin": "8127",
+                "end": "8134",
+                "count": 8
+            }
+        },
+        "names": {
+            "authors": [
+                {
+                    "displayName": "Chua, Evan M.",
+                    "wosStandard": "Chua, EM",
+                    "researcherId": "FXT-8062-2022"
+                },
+                {
+                    "displayName": "Shimeta, Jeff",
+                    "wosStandard": "Shimeta, J",
+                    "researcherId": "AAR-9642-2021"
+                },
+                {
+                    "displayName": "Nugegoda, Dayanthi",
+                    "wosStandard": "Nugegoda, D",
+                    "researcherId": "R-9770-2019"
+                },
+                {
+                    "displayName": "Morrison, Paul D.",
+                    "wosStandard": "Morrison, PD",
+                    "researcherId": "FNG-3703-2022"
+                },
+                {
+                    "displayName": "Clarke, Bradley O.",
+                    "wosStandard": "Clarke, BO",
+                    "researcherId": "U-9333-2017"
+                }
+            ]
+        },
+        "links": {
+            "record": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000339227500056&DestLinkType=FullRecord&DestApp=WOS_CPL",
+            "citingArticles": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000339227500056&DestLinkType=CitingArticles&DestApp=WOS_CPL",
+            "references": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000339227500056&DestLinkType=CitedReferences&DestApp=WOS",
+            "related": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000339227500056&DestLinkType=RelatedRecords&DestApp=WOS_CPL"
+        },
+        "citations": [
+            {
+                "db": "WOS",
+                "count": 382
+            }
+        ],
+        "identifiers": {
+            "doi": "10.1021/es405717z",
+            "issn": "0013-936X",
+            "eissn": "1520-5851",
+            "pmid": "24884099"
+        },
+        "keywords": {
+            "authorKeywords": []
+        }
+    },
+    {
+        "uid": "WOS:000340080600061",
+        "title": "Uptake and Retention of Microplastics by the Shore Crab <i>Carcinus maenas</i>",
+        "types": [
+            "Article"
+        ],
+        "sourceTypes": [
+            "Article"
+        ],
+        "source": {
+            "sourceTitle": "ENVIRONMENTAL SCIENCE & TECHNOLOGY",
+            "publishYear": 2014,
+            "publishMonth": "AUG 5",
+            "volume": "48",
+            "issue": "15",
+            "specialIssue": "SI",
+            "pages": {
+                "range": "8823-8830",
+                "begin": "8823",
+                "end": "8830",
+                "count": 8
+            }
+        },
+        "names": {
+            "authors": [
+                {
+                    "displayName": "Watts, Andrew J. R.",
+                    "wosStandard": "Watts, AJR",
+                    "researcherId": "J-7691-2015"
+                },
+                {
+                    "displayName": "Lewis, Ceri",
+                    "wosStandard": "Lewis, C",
+                    "researcherId": "FIU-0384-2022"
+                },
+                {
+                    "displayName": "Goodhead, Rhys M.",
+                    "wosStandard": "Goodhead, RM",
+                    "researcherId": "IKK-4815-2023"
+                },
+                {
+                    "displayName": "Beckett, Stephen J.",
+                    "wosStandard": "Beckett, SJ",
+                    "researcherId": "F-2613-2013"
+                },
+                {
+                    "displayName": "Moger, Julian",
+                    "wosStandard": "Moger, J",
+                    "researcherId": "FZY-8167-2022"
+                },
+                {
+                    "displayName": "Tyler, Charles R.",
+                    "wosStandard": "Tyler, CR",
+                    "researcherId": "EBC-6524-2022"
+                },
+                {
+                    "displayName": "Galloway, Tamara S.",
+                    "wosStandard": "Galloway, TS",
+                    "researcherId": "C-1662-2009"
+                }
+            ]
+        },
+        "links": {
+            "record": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000340080600061&DestLinkType=FullRecord&DestApp=WOS_CPL",
+            "citingArticles": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000340080600061&DestLinkType=CitingArticles&DestApp=WOS_CPL",
+            "references": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000340080600061&DestLinkType=CitedReferences&DestApp=WOS",
+            "related": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000340080600061&DestLinkType=RelatedRecords&DestApp=WOS_CPL"
+        },
+        "citations": [
+            {
+                "db": "WOS",
+                "count": 531
+            }
+        ],
+        "identifiers": {
+            "doi": "10.1021/es501090e",
+            "issn": "0013-936X",
+            "eissn": "1520-5851",
+            "pmid": "24972075"
+        },
+        "keywords": {
+            "authorKeywords": []
+        }
+    },
+    {
+        "uid": "WOS:000341468300029",
+        "title": "High-levels of microplastic pollution in a large, remote, mountain lake",
+        "types": [
+            "Article"
+        ],
+        "sourceTypes": [
+            "Article"
+        ],
+        "source": {
+            "sourceTitle": "MARINE POLLUTION BULLETIN",
+            "publishYear": 2014,
+            "publishMonth": "AUG 15",
+            "volume": "85",
+            "issue": "1",
+            "pages": {
+                "range": "156-163",
+                "begin": "156",
+                "end": "163",
+                "count": 8
+            }
+        },
+        "names": {
+            "authors": [
+                {
+                    "displayName": "Free, Christopher M.",
+                    "wosStandard": "Free, CM",
+                    "researcherId": "N-2813-2013"
+                },
+                {
+                    "displayName": "Jensen, Olaf P.",
+                    "wosStandard": "Jensen, OP",
+                    "researcherId": "FZV-3791-2022"
+                },
+                {
+                    "displayName": "Mason, Sherri A.",
+                    "wosStandard": "Mason, SA",
+                    "researcherId": "DYP-2372-2022"
+                },
+                {
+                    "displayName": "Eriksen, Marcus",
+                    "wosStandard": "Eriksen, M",
+                    "researcherId": "CNZ-0927-2022"
+                },
+                {
+                    "displayName": "Williamson, Nicholas J.",
+                    "wosStandard": "Williamson, NJ",
+                    "researcherId": "GHX-6418-2022"
+                },
+                {
+                    "displayName": "Boldgiv, Bazartseren",
+                    "wosStandard": "Boldgiv, B",
+                    "researcherId": "I-4754-2013"
+                }
+            ]
+        },
+        "links": {
+            "record": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000341468300029&DestLinkType=FullRecord&DestApp=WOS_CPL",
+            "citingArticles": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000341468300029&DestLinkType=CitingArticles&DestApp=WOS_CPL",
+            "references": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000341468300029&DestLinkType=CitedReferences&DestApp=WOS",
+            "related": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000341468300029&DestLinkType=RelatedRecords&DestApp=WOS_CPL"
+        },
+        "citations": [
+            {
+                "db": "WOS",
+                "count": 981
+            }
+        ],
+        "identifiers": {
+            "doi": "10.1016/j.marpolbul.2014.06.001",
+            "issn": "0025-326X",
+            "eissn": "1879-3363",
+            "pmid": "24973278"
+        },
+        "keywords": {
+            "authorKeywords": [
+                "Aquatic pollution",
+                "Plastic pollution",
+                "Microplastics",
+                "Lake Hovsgol",
+                "Lake Khuvsgul",
+                "Lake Khubsugul"
+            ]
+        }
+    },
+    {
+        "uid": "WOS:000339110100013",
+        "title": "Elasticity, anelasticity, and microplasticity of directionally crystallized aluminum-germanium alloys",
+        "types": [
+            "Article"
+        ],
+        "sourceTypes": [
+            "Article"
+        ],
+        "source": {
+            "sourceTitle": "PHYSICS OF THE SOLID STATE",
+            "publishYear": 2014,
+            "publishMonth": "JUL",
+            "volume": "56",
+            "issue": "7",
+            "pages": {
+                "range": "1363-1367",
+                "begin": "1363",
+                "end": "1367",
+                "count": 5
+            }
+        },
+        "names": {
+            "authors": [
+                {
+                    "displayName": "Kardashev, B. K.",
+                    "wosStandard": "Kardashev, BK",
+                    "researcherId": "FDT-6157-2022"
+                },
+                {
+                    "displayName": "Korchunov, B. N.",
+                    "wosStandard": "Korchunov, BN",
+                    "researcherId": "DAA-4178-2022"
+                },
+                {
+                    "displayName": "Nikanorov, S. P.",
+                    "wosStandard": "Nikanorov, SP",
+                    "researcherId": "K-7112-2013"
+                },
+                {
+                    "displayName": "Osipov, V. N.",
+                    "wosStandard": "Osipov, VN",
+                    "researcherId": "FMZ-6386-2022"
+                },
+                {
+                    "displayName": "Fedorov, V. Yu.",
+                    "wosStandard": "Fedorov, VY",
+                    "researcherId": "M-8712-2015"
+                }
+            ]
+        },
+        "links": {
+            "record": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000339110100013&DestLinkType=FullRecord&DestApp=WOS_CPL",
+            "citingArticles": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000339110100013&DestLinkType=CitingArticles&DestApp=WOS_CPL",
+            "references": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000339110100013&DestLinkType=CitedReferences&DestApp=WOS",
+            "related": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000339110100013&DestLinkType=RelatedRecords&DestApp=WOS_CPL"
+        },
+        "citations": [
+            {
+                "db": "WOS",
+                "count": 3
+            }
+        ],
+        "identifiers": {
+            "doi": "10.1134/S1063783414070191",
+            "issn": "1063-7834",
+            "eissn": "1090-6460"
+        },
+        "keywords": {
+            "authorKeywords": []
+        }
+    },
+    {
+        "uid": "WOS:000342245100004",
+        "title": "Large filter feeding marine organisms as indicators of microplastic in the pelagic environment: The case studies of the Mediterranean basking shark (<i>Cetorhinus maximus</i>) and fin whale (<i>Balaenoptera physalus</i>)",
+        "types": [
+            "Article"
+        ],
+        "sourceTypes": [
+            "Article"
+        ],
+        "source": {
+            "sourceTitle": "MARINE ENVIRONMENTAL RESEARCH",
+            "publishYear": 2014,
+            "publishMonth": "SEP",
+            "volume": "100",
+            "specialIssue": "SI",
+            "pages": {
+                "range": "17-24",
+                "begin": "17",
+                "end": "24",
+                "count": 8
+            }
+        },
+        "names": {
+            "authors": [
+                {
+                    "displayName": "Fossi, Maria Cristina",
+                    "wosStandard": "Fossi, MC",
+                    "researcherId": "GAA-6052-2022"
+                },
+                {
+                    "displayName": "Coppola, Daniele",
+                    "wosStandard": "Coppola, D",
+                    "researcherId": "CLC-0044-2022"
+                },
+                {
+                    "displayName": "Baini, Matteo",
+                    "wosStandard": "Baini, M",
+                    "researcherId": "IAR-1459-2023"
+                },
+                {
+                    "displayName": "Giannetti, Matteo",
+                    "wosStandard": "Giannetti, M",
+                    "researcherId": "CRF-0786-2022"
+                },
+                {
+                    "displayName": "Guerranti, Cristiana",
+                    "wosStandard": "Guerranti, C",
+                    "researcherId": "CTE-4790-2022"
+                },
+                {
+                    "displayName": "Marsili, Letizia",
+                    "wosStandard": "Marsili, L",
+                    "researcherId": "AAB-7138-2019"
+                },
+                {
+                    "displayName": "Panti, Cristina",
+                    "wosStandard": "Panti, C",
+                    "researcherId": "BBD-3100-2021"
+                },
+                {
+                    "displayName": "de Sabata, Eleonora",
+                    "wosStandard": "de Sabata, E",
+                    "researcherId": "GCI-2647-2022"
+                },
+                {
+                    "displayName": "Clo, Simona",
+                    "wosStandard": "Clò, S",
+                    "researcherId": "JHD-9802-2023"
+                }
+            ]
+        },
+        "links": {
+            "record": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000342245100004&DestLinkType=FullRecord&DestApp=WOS_CPL",
+            "citingArticles": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000342245100004&DestLinkType=CitingArticles&DestApp=WOS_CPL",
+            "references": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000342245100004&DestLinkType=CitedReferences&DestApp=WOS",
+            "related": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000342245100004&DestLinkType=RelatedRecords&DestApp=WOS_CPL"
+        },
+        "citations": [
+            {
+                "db": "WOS",
+                "count": 307
+            }
+        ],
+        "identifiers": {
+            "doi": "10.1016/j.marenvres.2014.02.002",
+            "issn": "0141-1136",
+            "eissn": "1879-0291",
+            "pmid": "24612776"
+        },
+        "keywords": {
+            "authorKeywords": [
+                "Microplastic",
+                "Phthalates",
+                "Organochlorines",
+                "Basking shark",
+                "Fin whale",
+                "Mediterranean Sea"
+            ]
+        }
+    },
+    {
+        "uid": "WOS:000340380400010",
+        "title": "Influence of a weak magnetic field on microplasticity of silicon crystals",
+        "types": [
+            "Article"
+        ],
+        "sourceTypes": [
+            "Article"
+        ],
+        "source": {
+            "sourceTitle": "PHYSICS OF THE SOLID STATE",
+            "publishYear": 2014,
+            "publishMonth": "AUG",
+            "volume": "56",
+            "issue": "8",
+            "pages": {
+                "range": "1582-1589",
+                "begin": "1582",
+                "end": "1589",
+                "count": 8
+            }
+        },
+        "names": {
+            "authors": [
+                {
+                    "displayName": "Makara, V. A.",
+                    "wosStandard": "Makara, VA",
+                    "researcherId": "AAS-7203-2020"
+                },
+                {
+                    "displayName": "Steblenko, L. P.",
+                    "wosStandard": "Steblenko, LP",
+                    "researcherId": "DYS-8120-2022"
+                },
+                {
+                    "displayName": "Plyushchai, I. V.",
+                    "wosStandard": "Plyushchai, IV",
+                    "researcherId": "AAE-8110-2020"
+                },
+                {
+                    "displayName": "Kurylyuk, A. N.",
+                    "wosStandard": "Kurylyuk, AN",
+                    "researcherId": "G-7042-2019"
+                },
+                {
+                    "displayName": "Kalinichenko, D. V.",
+                    "wosStandard": "Kalinichenko, DV",
+                    "researcherId": "CXY-6510-2022"
+                },
+                {
+                    "displayName": "Krit, A. N.",
+                    "wosStandard": "Krit, AN",
+                    "researcherId": "GCM-6697-2022"
+                },
+                {
+                    "displayName": "Naumenko, S. N.",
+                    "wosStandard": "Naumenko, SN",
+                    "researcherId": "DXC-3963-2022"
+                }
+            ]
+        },
+        "links": {
+            "record": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000340380400010&DestLinkType=FullRecord&DestApp=WOS_CPL",
+            "citingArticles": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000340380400010&DestLinkType=CitingArticles&DestApp=WOS_CPL",
+            "references": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000340380400010&DestLinkType=CitedReferences&DestApp=WOS",
+            "related": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000340380400010&DestLinkType=RelatedRecords&DestApp=WOS_CPL"
+        },
+        "citations": [
+            {
+                "db": "WOS",
+                "count": 5
+            }
+        ],
+        "identifiers": {
+            "doi": "10.1134/S1063783414080174",
+            "issn": "1063-7834",
+            "eissn": "1090-6460"
+        },
+        "keywords": {
+            "authorKeywords": []
+        }
+    },
+    {
+        "uid": "WOS:000340330400029",
+        "title": "Nanoplastic deformation on Ti-39 at.% Al single crystals for manipulation of every single γ lamella",
+        "types": [
+            "Article"
+        ],
+        "sourceTypes": [
+            "Article"
+        ],
+        "source": {
+            "sourceTitle": "ACTA MATERIALIA",
+            "publishYear": 2014,
+            "publishMonth": "SEP 1",
+            "volume": "76",
+            "pages": {
+                "range": "331-341",
+                "begin": "331",
+                "end": "341",
+                "count": 11
+            }
+        },
+        "names": {
+            "authors": [
+                {
+                    "displayName": "Wei, Dai-Xiu",
+                    "wosStandard": "Wei, DX",
+                    "researcherId": "C-1858-2017"
+                },
+                {
+                    "displayName": "Koizumi, Yuichiro",
+                    "wosStandard": "Koizumi, Y",
+                    "researcherId": "C-2697-2011"
+                },
+                {
+                    "displayName": "Nishiyama, Hiroaki",
+                    "wosStandard": "Nishiyama, H",
+                    "researcherId": "DKJ-9809-2022"
+                },
+                {
+                    "displayName": "Yamanaka, Akinori",
+                    "wosStandard": "Yamanaka, A",
+                    "researcherId": "E-4581-2012"
+                },
+                {
+                    "displayName": "Yoshino, Masahiko",
+                    "wosStandard": "Yoshino, M",
+                    "researcherId": "EHU-3981-2022"
+                },
+                {
+                    "displayName": "Miyamoto, Shinpei",
+                    "wosStandard": "Miyamoto, S",
+                    "researcherId": "FLG-3931-2022"
+                },
+                {
+                    "displayName": "Yoshimi, Kyosuke",
+                    "wosStandard": "Yoshimi, K",
+                    "researcherId": "DZR-5604-2022"
+                },
+                {
+                    "displayName": "Chiba, Akihiko",
+                    "wosStandard": "Chiba, A",
+                    "researcherId": "D-1326-2011"
+                }
+            ]
+        },
+        "links": {
+            "record": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000340330400029&DestLinkType=FullRecord&DestApp=WOS_CPL",
+            "citingArticles": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000340330400029&DestLinkType=CitingArticles&DestApp=WOS_CPL",
+            "references": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000340330400029&DestLinkType=CitedReferences&DestApp=WOS",
+            "related": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000340330400029&DestLinkType=RelatedRecords&DestApp=WOS_CPL"
+        },
+        "citations": [
+            {
+                "db": "WOS",
+                "count": 8
+            }
+        ],
+        "identifiers": {
+            "doi": "10.1016/j.actamat.2014.05.031",
+            "issn": "1359-6454",
+            "eissn": "1873-2453"
+        },
+        "keywords": {
+            "authorKeywords": [
+                "Titanium aluminides",
+                "Nanoimprinting",
+                "Nanoindentation",
+                "Nanogrooving",
+                "Dislocation"
+            ]
+        }
+    },
+    {
+        "uid": "WOS:000342860100074",
+        "title": "Suspended microplastics in the surface water of the Yangtze Estuary System, China: First observations on occurrence, distribution",
+        "types": [
+            "Article"
+        ],
+        "sourceTypes": [
+            "Article"
+        ],
+        "source": {
+            "sourceTitle": "MARINE POLLUTION BULLETIN",
+            "publishYear": 2014,
+            "publishMonth": "SEP 15",
+            "volume": "86",
+            "issue": "1-2",
+            "pages": {
+                "range": "562-568",
+                "begin": "562",
+                "end": "568",
+                "count": 7
+            }
+        },
+        "names": {
+            "authors": [
+                {
+                    "displayName": "Zhao, Shiye",
+                    "wosStandard": "Zhao, SY",
+                    "researcherId": "EGZ-1075-2022"
+                },
+                {
+                    "displayName": "Zhu, Lixin",
+                    "wosStandard": "Zhu, LX",
+                    "researcherId": "KBA-4681-2024"
+                },
+                {
+                    "displayName": "Wang, Teng",
+                    "wosStandard": "Wang, T",
+                    "researcherId": "DXB-8963-2022"
+                },
+                {
+                    "displayName": "Li, Daoji",
+                    "wosStandard": "Li, DJ",
+                    "researcherId": "AFH-7112-2022"
+                }
+            ]
+        },
+        "links": {
+            "record": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000342860100074&DestLinkType=FullRecord&DestApp=WOS_CPL",
+            "citingArticles": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000342860100074&DestLinkType=CitingArticles&DestApp=WOS_CPL",
+            "references": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000342860100074&DestLinkType=CitedReferences&DestApp=WOS",
+            "related": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000342860100074&DestLinkType=RelatedRecords&DestApp=WOS_CPL"
+        },
+        "citations": [
+            {
+                "db": "WOS",
+                "count": 721
+            }
+        ],
+        "identifiers": {
+            "doi": "10.1016/j.marpolbul.2014.06.032",
+            "issn": "0025-326X",
+            "eissn": "1879-3363",
+            "pmid": "25023438"
+        },
+        "keywords": {
+            "authorKeywords": [
+                "Suspended microplastic",
+                "Yangtze Estuary",
+                "East China Sea",
+                "Marine debris"
+            ]
+        }
+    },
+    {
+        "uid": "WOS:000342513400001",
+        "title": "Rapid bacterial colonization of low-density polyethylene microplastics in coastal sediment microcosms",
+        "types": [
+            "Article"
+        ],
+        "sourceTypes": [
+            "Article"
+        ],
+        "source": {
+            "sourceTitle": "BMC MICROBIOLOGY",
+            "publishYear": 2014,
+            "publishMonth": "SEP 23",
+            "volume": "14",
+            "articleNumber": "232",
+            "pages": {
+                "count": 15
+            }
+        },
+        "names": {
+            "authors": [
+                {
+                    "displayName": "Harrison, Jesse P.",
+                    "wosStandard": "Harrison, JP",
+                    "researcherId": "C-3199-2012"
+                },
+                {
+                    "displayName": "Schratzberger, Michaela",
+                    "wosStandard": "Schratzberger, M",
+                    "researcherId": "DVZ-9999-2022"
+                },
+                {
+                    "displayName": "Sapp, Melanie",
+                    "wosStandard": "Sapp, M",
+                    "researcherId": "J-4941-2017"
+                },
+                {
+                    "displayName": "Osborn, A. Mark",
+                    "wosStandard": "Osborn, AM",
+                    "researcherId": "F-5466-2015"
+                }
+            ]
+        },
+        "links": {
+            "record": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000342513400001&DestLinkType=FullRecord&DestApp=WOS_CPL",
+            "citingArticles": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000342513400001&DestLinkType=CitingArticles&DestApp=WOS_CPL",
+            "references": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000342513400001&DestLinkType=CitedReferences&DestApp=WOS",
+            "related": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000342513400001&DestLinkType=RelatedRecords&DestApp=WOS_CPL"
+        },
+        "citations": [
+            {
+                "db": "WOS",
+                "count": 377
+            }
+        ],
+        "identifiers": {
+            "doi": "10.1186/s12866-014-0232-4",
+            "issn": "1471-2180",
+            "pmid": "25245856"
+        },
+        "keywords": {
+            "authorKeywords": [
+                "Bacteria",
+                "Sediment",
+                "Microplastics",
+                "Succession",
+                "Arcobacter",
+                "Colwellia"
+            ]
+        }
+    },
+    {
+        "uid": "WOS:000341471300009",
+        "title": "Microplastics in bivalves cultured for human consumption",
+        "types": [
+            "Article"
+        ],
+        "sourceTypes": [
+            "Article"
+        ],
+        "source": {
+            "sourceTitle": "ENVIRONMENTAL POLLUTION",
+            "publishYear": 2014,
+            "publishMonth": "OCT",
+            "volume": "193",
+            "pages": {
+                "range": "65-70",
+                "begin": "65",
+                "end": "70",
+                "count": 6
+            }
+        },
+        "names": {
+            "authors": [
+                {
+                    "displayName": "Van Cauwenberghe, Lisbeth",
+                    "wosStandard": "Van Cauwenberghe, L",
+                    "researcherId": "EBP-6299-2022"
+                },
+                {
+                    "displayName": "Janssen, Colin R.",
+                    "wosStandard": "Janssen, CR",
+                    "researcherId": "H-3122-2015"
+                }
+            ]
+        },
+        "links": {
+            "record": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000341471300009&DestLinkType=FullRecord&DestApp=WOS_CPL",
+            "citingArticles": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000341471300009&DestLinkType=CitingArticles&DestApp=WOS_CPL",
+            "references": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000341471300009&DestLinkType=CitedReferences&DestApp=WOS",
+            "related": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000341471300009&DestLinkType=RelatedRecords&DestApp=WOS_CPL"
+        },
+        "citations": [
+            {
+                "db": "WOS",
+                "count": 1349
+            }
+        ],
+        "identifiers": {
+            "doi": "10.1016/j.envpol.2014.06.010",
+            "issn": "0269-7491",
+            "eissn": "1873-6424",
+            "pmid": "25005888"
+        },
+        "keywords": {
+            "authorKeywords": [
+                "Microplastics",
+                "Mytilus edulis",
+                "Crassostrea gigas",
+                "Ingestion",
+                "Human food chain"
+            ]
+        }
+    },
+    {
+        "uid": "WOS:000342212800002",
+        "title": "Dynamic microplasticity phenomenon in rocks during P-wave propagation",
+        "types": [
+            "Article"
+        ],
+        "sourceTypes": [
+            "Article"
+        ],
+        "source": {
+            "sourceTitle": "JOURNAL OF MINING SCIENCE",
+            "publishYear": 2014,
+            "publishMonth": "MAR",
+            "volume": "50",
+            "issue": "2",
+            "pages": {
+                "range": "215-223",
+                "begin": "215",
+                "end": "223",
+                "count": 9
+            }
+        },
+        "names": {
+            "authors": [
+                {
+                    "displayName": "Mashinskii, E. I.",
+                    "wosStandard": "Mashinskii, EI",
+                    "researcherId": "DXB-7179-2022"
+                }
+            ]
+        },
+        "links": {
+            "record": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000342212800002&DestLinkType=FullRecord&DestApp=WOS_CPL",
+            "citingArticles": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000342212800002&DestLinkType=CitingArticles&DestApp=WOS_CPL",
+            "references": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000342212800002&DestLinkType=CitedReferences&DestApp=WOS",
+            "related": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000342212800002&DestLinkType=RelatedRecords&DestApp=WOS_CPL"
+        },
+        "citations": [
+            {
+                "db": "WOS",
+                "count": 1
+            }
+        ],
+        "identifiers": {
+            "doi": "10.1134/S1062739114020021",
+            "issn": "1062-7391",
+            "eissn": "1573-8736"
+        },
+        "keywords": {
+            "authorKeywords": [
+                "Local inelasticity",
+                "dynamic microplasticity",
+                "time lag and deformations",
+                "inelastic seismic parameters",
+                "amplitude dependence of wave velocities and attenuation"
+            ]
+        }
+    },
+    {
+        "uid": "WOS:000343640900071",
+        "title": "Nanoplastic Affects Growth of <i>S</i>. <i>obliquus</i> and Reproduction of <i>D</i>. <i>magna</i>",
+        "types": [
+            "Article"
+        ],
+        "sourceTypes": [
+            "Article"
+        ],
+        "source": {
+            "sourceTitle": "ENVIRONMENTAL SCIENCE & TECHNOLOGY",
+            "publishYear": 2014,
+            "publishMonth": "OCT 21",
+            "volume": "48",
+            "issue": "20",
+            "pages": {
+                "range": "12336-12343",
+                "begin": "12336",
+                "end": "12343",
+                "count": 8
+            }
+        },
+        "names": {
+            "authors": [
+                {
+                    "displayName": "Besseling, Ellen",
+                    "wosStandard": "Besseling, E",
+                    "researcherId": "ABD-5524-2021"
+                },
+                {
+                    "displayName": "Wang, Bo",
+                    "wosStandard": "Wang, B",
+                    "researcherId": "AFL-8864-2022"
+                },
+                {
+                    "displayName": "Lurling, Miquel",
+                    "wosStandard": "Lürling, M",
+                    "researcherId": "CCU-1769-2022"
+                },
+                {
+                    "displayName": "Koelmans, Albert A.",
+                    "wosStandard": "Koelmans, AA",
+                    "researcherId": "D-8603-2014"
+                }
+            ]
+        },
+        "links": {
+            "record": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000343640900071&DestLinkType=FullRecord&DestApp=WOS_CPL",
+            "citingArticles": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000343640900071&DestLinkType=CitingArticles&DestApp=WOS_CPL",
+            "references": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000343640900071&DestLinkType=CitedReferences&DestApp=WOS",
+            "related": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000343640900071&DestLinkType=RelatedRecords&DestApp=WOS_CPL"
+        },
+        "citations": [
+            {
+                "db": "WOS",
+                "count": 838
+            }
+        ],
+        "identifiers": {
+            "doi": "10.1021/es503001d",
+            "issn": "0013-936X",
+            "eissn": "1520-5851",
+            "pmid": "25268330"
+        },
+        "keywords": {
+            "authorKeywords": []
+        }
+    },
+    {
+        "uid": "WOS:000343640900016",
+        "title": "Microplastic is an Abundant and Distinct Microbial Habitat in an Urban River",
+        "types": [
+            "Article"
+        ],
+        "sourceTypes": [
+            "Article"
+        ],
+        "source": {
+            "sourceTitle": "ENVIRONMENTAL SCIENCE & TECHNOLOGY",
+            "publishYear": 2014,
+            "publishMonth": "OCT 21",
+            "volume": "48",
+            "issue": "20",
+            "pages": {
+                "range": "11863-11871",
+                "begin": "11863",
+                "end": "11871",
+                "count": 9
+            }
+        },
+        "names": {
+            "authors": [
+                {
+                    "displayName": "McCormick, Amanda",
+                    "wosStandard": "McCormick, A",
+                    "researcherId": "IFJ-4731-2023"
+                },
+                {
+                    "displayName": "Hoellein, Timothy J.",
+                    "wosStandard": "Hoellein, TJ",
+                    "researcherId": "GBU-8540-2022"
+                },
+                {
+                    "displayName": "Mason, Sherri A.",
+                    "wosStandard": "Mason, SA",
+                    "researcherId": "DYP-2372-2022"
+                },
+                {
+                    "displayName": "Schluep, Joseph",
+                    "wosStandard": "Schluep, J",
+                    "researcherId": "FUZ-3083-2022"
+                },
+                {
+                    "displayName": "Kelly, John J.",
+                    "wosStandard": "Kelly, JJ",
+                    "researcherId": "DVF-0400-2022"
+                }
+            ]
+        },
+        "links": {
+            "record": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000343640900016&DestLinkType=FullRecord&DestApp=WOS_CPL",
+            "citingArticles": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000343640900016&DestLinkType=CitingArticles&DestApp=WOS_CPL",
+            "references": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000343640900016&DestLinkType=CitedReferences&DestApp=WOS",
+            "related": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000343640900016&DestLinkType=RelatedRecords&DestApp=WOS_CPL"
+        },
+        "citations": [
+            {
+                "db": "WOS",
+                "count": 984
+            }
+        ],
+        "identifiers": {
+            "doi": "10.1021/es503610r",
+            "issn": "0013-936X",
+            "eissn": "1520-5851",
+            "pmid": "25230146"
+        },
+        "keywords": {
+            "authorKeywords": []
+        }
+    },
+    {
+        "uid": "WOS:000342876200013",
+        "title": "STUDY CONCERNING THE POLLUTION OF THE MARINE HABITATS WITH THE MICROPLASTIC FIBRES",
+        "types": [
+            "Article"
+        ],
+        "sourceTypes": [
+            "Article"
+        ],
+        "source": {
+            "sourceTitle": "JOURNAL OF ENVIRONMENTAL PROTECTION AND ECOLOGY",
+            "publishYear": 2014,
+            "volume": "15",
+            "issue": "3",
+            "pages": {
+                "range": "916-923",
+                "begin": "916",
+                "end": "923",
+                "count": 8
+            }
+        },
+        "names": {
+            "authors": [
+                {
+                    "displayName": "Popa, M.",
+                    "wosStandard": "Popa, M",
+                    "researcherId": "HLF-9033-2023"
+                },
+                {
+                    "displayName": "Morar, D.",
+                    "wosStandard": "Morar, D",
+                    "researcherId": "DHE-0173-2022"
+                },
+                {
+                    "displayName": "Timar, A.",
+                    "wosStandard": "Timar, A",
+                    "researcherId": "AAD-3940-2022"
+                },
+                {
+                    "displayName": "Teusdea, A. C.",
+                    "wosStandard": "Teusdea, AC",
+                    "researcherId": "I-8232-2016"
+                },
+                {
+                    "displayName": "Popa, D.",
+                    "wosStandard": "Popa, D",
+                    "researcherId": "DLI-7197-2022"
+                }
+            ]
+        },
+        "links": {
+            "record": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000342876200013&DestLinkType=FullRecord&DestApp=WOS_CPL",
+            "citingArticles": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000342876200013&DestLinkType=CitingArticles&DestApp=WOS_CPL",
+            "references": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000342876200013&DestLinkType=CitedReferences&DestApp=WOS",
+            "related": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000342876200013&DestLinkType=RelatedRecords&DestApp=WOS_CPL"
+        },
+        "citations": [
+            {
+                "db": "WOS",
+                "count": 9
+            }
+        ],
+        "identifiers": {
+            "issn": "1311-5065"
+        },
+        "keywords": {
+            "authorKeywords": [
+                "microplastic fibres",
+                "marine habitat pollution"
+            ]
+        }
+    },
+    {
+        "uid": "WOS:000342860100002",
+        "title": "Microplastics more harmful to marine life than previously thought",
+        "types": [
+            "News"
+        ],
+        "sourceTypes": [
+            "News Item"
+        ],
+        "source": {
+            "sourceTitle": "MARINE POLLUTION BULLETIN",
+            "publishYear": 2014,
+            "publishMonth": "SEP 15",
+            "volume": "86",
+            "issue": "1-2",
+            "pages": {
+                "range": "5-5",
+                "begin": "5",
+                "end": "5",
+                "count": 1
+            }
+        },
+        "names": {
+            "anonymous": [
+                {
+                    "displayName": "[Anonymous]"
+                }
+            ]
+        },
+        "links": {
+            "record": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000342860100002&DestLinkType=FullRecord&DestApp=WOS_CPL"
+        },
+        "citations": [
+            {
+                "db": "WOS",
+                "count": 0
+            }
+        ],
+        "identifiers": {
+            "issn": "0025-326X",
+            "eissn": "1879-3363"
+        },
+        "keywords": {
+            "authorKeywords": []
+        }
+    },
+    {
+        "uid": "WOS:000345489800051",
+        "title": "Microplastic pollution in the Northeast Atlantic Ocean: Validated and opportunistic sampling",
+        "types": [
+            "Article"
+        ],
+        "sourceTypes": [
+            "Article"
+        ],
+        "source": {
+            "sourceTitle": "MARINE POLLUTION BULLETIN",
+            "publishYear": 2014,
+            "publishMonth": "NOV 15",
+            "volume": "88",
+            "issue": "1-2",
+            "pages": {
+                "range": "325-333",
+                "begin": "325",
+                "end": "333",
+                "count": 9
+            }
+        },
+        "names": {
+            "authors": [
+                {
+                    "displayName": "Lusher, Amy L.",
+                    "wosStandard": "Lusher, AL",
+                    "researcherId": "Q-3483-2018"
+                },
+                {
+                    "displayName": "Burke, Ann",
+                    "wosStandard": "Burke, A",
+                    "researcherId": "EPE-7955-2022"
+                },
+                {
+                    "displayName": "O'Connor, Ian",
+                    "wosStandard": "O'Connor, I",
+                    "researcherId": "ABE-7483-2020"
+                },
+                {
+                    "displayName": "Officer, Rick",
+                    "wosStandard": "Officer, R",
+                    "researcherId": "DWL-9691-2022"
+                }
+            ]
+        },
+        "links": {
+            "record": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000345489800051&DestLinkType=FullRecord&DestApp=WOS_CPL",
+            "citingArticles": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000345489800051&DestLinkType=CitingArticles&DestApp=WOS_CPL",
+            "references": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000345489800051&DestLinkType=CitedReferences&DestApp=WOS",
+            "related": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000345489800051&DestLinkType=RelatedRecords&DestApp=WOS_CPL"
+        },
+        "citations": [
+            {
+                "db": "WOS",
+                "count": 479
+            }
+        ],
+        "identifiers": {
+            "doi": "10.1016/j.marpolbul.2014.08.023",
+            "issn": "0025-326X",
+            "eissn": "1879-3363",
+            "pmid": "25224764"
+        },
+        "keywords": {
+            "authorKeywords": [
+                "Plastic",
+                "Fibres",
+                "Sub-surface",
+                "Neuston",
+                "Continuous monitoring"
+            ]
+        }
+    },
+    {
+        "uid": "WOS:000209732100006",
+        "title": "The deep sea is a major sink for microplastic debris",
+        "types": [
+            "Article"
+        ],
+        "sourceTypes": [
+            "Article"
+        ],
+        "source": {
+            "sourceTitle": "ROYAL SOCIETY OPEN SCIENCE",
+            "publishYear": 2014,
+            "publishMonth": "DEC",
+            "volume": "1",
+            "issue": "4",
+            "articleNumber": "140317",
+            "pages": {
+                "count": 8
+            }
+        },
+        "names": {
+            "authors": [
+                {
+                    "displayName": "Woodall, Lucy C.",
+                    "wosStandard": "Woodall, LC",
+                    "researcherId": "EEQ-0361-2022"
+                },
+                {
+                    "displayName": "Sanchez-Vidal, Anna",
+                    "wosStandard": "Sanchez-Vidal, A",
+                    "researcherId": "B-6919-2016"
+                },
+                {
+                    "displayName": "Canals, Miquel",
+                    "wosStandard": "Canals, M",
+                    "researcherId": "F-4922-2013"
+                },
+                {
+                    "displayName": "Paterson, Gordon L. J.",
+                    "wosStandard": "Paterson, GLJ",
+                    "researcherId": "HMI-7102-2023"
+                },
+                {
+                    "displayName": "Coppock, Rachel",
+                    "wosStandard": "Coppock, R",
+                    "researcherId": "GAJ-7879-2022"
+                },
+                {
+                    "displayName": "Sleight, Victoria",
+                    "wosStandard": "Sleight, V",
+                    "researcherId": "AHE-7337-2022"
+                },
+                {
+                    "displayName": "Calafat, Antonio",
+                    "wosStandard": "Calafat, A",
+                    "researcherId": "J-5848-2017"
+                },
+                {
+                    "displayName": "Rogers, Alex D.",
+                    "wosStandard": "Rogers, AD",
+                    "researcherId": "IHO-3294-2023"
+                },
+                {
+                    "displayName": "Narayanaswamy, Bhavani E.",
+                    "wosStandard": "Narayanaswamy, BE",
+                    "researcherId": "DWN-8910-2022"
+                },
+                {
+                    "displayName": "Thompson, Richard C.",
+                    "wosStandard": "Thompson, RC",
+                    "researcherId": "J-8879-2014"
+                }
+            ]
+        },
+        "links": {
+            "record": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000209732100006&DestLinkType=FullRecord&DestApp=WOS_CPL",
+            "citingArticles": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000209732100006&DestLinkType=CitingArticles&DestApp=WOS_CPL",
+            "references": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000209732100006&DestLinkType=CitedReferences&DestApp=WOS",
+            "related": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000209732100006&DestLinkType=RelatedRecords&DestApp=WOS_CPL"
+        },
+        "citations": [
+            {
+                "db": "WOS",
+                "count": 1289
+            }
+        ],
+        "identifiers": {
+            "doi": "10.1098/rsos.140317",
+            "issn": "2054-5703",
+            "pmid": "26064573"
+        },
+        "keywords": {
+            "authorKeywords": [
+                "marine",
+                "litter",
+                "plastic",
+                "fibres",
+                "seabed",
+                "microplastic"
+            ]
+        }
+    },
+    {
+        "uid": "WOS:000344605200001",
+        "title": "Microplastic pollution in St. Lawrence River sediments",
+        "types": [
+            "Article"
+        ],
+        "sourceTypes": [
+            "Article"
+        ],
+        "source": {
+            "sourceTitle": "CANADIAN JOURNAL OF FISHERIES AND AQUATIC SCIENCES",
+            "publishYear": 2014,
+            "publishMonth": "DEC",
+            "volume": "71",
+            "issue": "12",
+            "pages": {
+                "range": "1767-1771",
+                "begin": "1767",
+                "end": "1771",
+                "count": 5
+            }
+        },
+        "names": {
+            "authors": [
+                {
+                    "displayName": "Castaneda, Rowshyra A.",
+                    "wosStandard": "Castañeda, RA",
+                    "researcherId": "O-2619-2015"
+                },
+                {
+                    "displayName": "Avlijas, Suncica",
+                    "wosStandard": "Avlijas, S",
+                    "researcherId": "Y-6084-2019"
+                },
+                {
+                    "displayName": "Simard, M. Anouk",
+                    "wosStandard": "Simard, MA",
+                    "researcherId": "IIB-1644-2023"
+                },
+                {
+                    "displayName": "Ricciardi, Anthony",
+                    "wosStandard": "Ricciardi, A",
+                    "researcherId": "A-8536-2010"
+                }
+            ]
+        },
+        "links": {
+            "record": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000344605200001&DestLinkType=FullRecord&DestApp=WOS_CPL",
+            "citingArticles": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000344605200001&DestLinkType=CitingArticles&DestApp=WOS_CPL",
+            "references": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000344605200001&DestLinkType=CitedReferences&DestApp=WOS",
+            "related": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000344605200001&DestLinkType=RelatedRecords&DestApp=WOS_CPL"
+        },
+        "citations": [
+            {
+                "db": "WOS",
+                "count": 372
+            }
+        ],
+        "identifiers": {
+            "doi": "10.1139/cjfas-2014-0281",
+            "issn": "0706-652X",
+            "eissn": "1205-7533"
+        },
+        "keywords": {
+            "authorKeywords": []
+        }
+    },
+    {
+        "uid": "WOS:000345803800068",
+        "title": "Nanoplastic Affects Growth of <i>S</i>. <i>obliquus</i> and Reproduction of <i>D</i>. <i>magna</i> (vol 48, pg 12336, 2014)",
+        "types": [
+            "Correction"
+        ],
+        "sourceTypes": [
+            "Correction"
+        ],
+        "source": {
+            "sourceTitle": "ENVIRONMENTAL SCIENCE & TECHNOLOGY",
+            "publishYear": 2014,
+            "publishMonth": "DEC 2",
+            "volume": "48",
+            "issue": "23",
+            "pages": {
+                "range": "14065-14065",
+                "begin": "14065",
+                "end": "14065",
+                "count": 1
+            }
+        },
+        "names": {
+            "authors": [
+                {
+                    "displayName": "Besseling, Ellen",
+                    "wosStandard": "Besseling, E",
+                    "researcherId": "ABD-5524-2021"
+                },
+                {
+                    "displayName": "Wang, Bo",
+                    "wosStandard": "Wang, B",
+                    "researcherId": "AFL-8864-2022"
+                },
+                {
+                    "displayName": "Luerling, Miquel",
+                    "wosStandard": "Lürling, M",
+                    "researcherId": "CCU-1769-2022"
+                },
+                {
+                    "displayName": "Koelmans, Albert A.",
+                    "wosStandard": "Koelmans, AA",
+                    "researcherId": "D-8603-2014"
+                }
+            ]
+        },
+        "links": {
+            "record": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000345803800068&DestLinkType=FullRecord&DestApp=WOS_CPL",
+            "citingArticles": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000345803800068&DestLinkType=CitingArticles&DestApp=WOS_CPL",
+            "references": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000345803800068&DestLinkType=CitedReferences&DestApp=WOS",
+            "related": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000345803800068&DestLinkType=RelatedRecords&DestApp=WOS_CPL"
+        },
+        "citations": [
+            {
+                "db": "WOS",
+                "count": 13
+            }
+        ],
+        "identifiers": {
+            "doi": "10.1021/es5052028",
+            "issn": "0013-936X",
+            "eissn": "1520-5851"
+        },
+        "keywords": {
+            "authorKeywords": []
+        }
+    },
+    {
+        "uid": "WOS:000347494700051",
+        "title": "Selective transport of microplastics and mesoplastics by drifting in coastal waters",
+        "types": [
+            "Article"
+        ],
+        "sourceTypes": [
+            "Article"
+        ],
+        "source": {
+            "sourceTitle": "MARINE POLLUTION BULLETIN",
+            "publishYear": 2014,
+            "publishMonth": "DEC 15",
+            "volume": "89",
+            "issue": "1-2",
+            "pages": {
+                "range": "324-330",
+                "begin": "324",
+                "end": "330",
+                "count": 7
+            }
+        },
+        "names": {
+            "authors": [
+                {
+                    "displayName": "Isobe, Atsuhiko",
+                    "wosStandard": "Isobe, A",
+                    "researcherId": "G-4654-2015"
+                },
+                {
+                    "displayName": "Kubo, Kenta",
+                    "wosStandard": "Kubo, K",
+                    "researcherId": "CYV-8664-2022"
+                },
+                {
+                    "displayName": "Tamura, Yuka",
+                    "wosStandard": "Tamura, Y",
+                    "researcherId": "DZN-0448-2022"
+                },
+                {
+                    "displayName": "Kako, Shin'ichio",
+                    "wosStandard": "Kako, S",
+                    "researcherId": "DWB-8197-2022"
+                },
+                {
+                    "displayName": "Nakashima, Etsuko",
+                    "wosStandard": "Nakashima, E",
+                    "researcherId": "FNK-8212-2022"
+                },
+                {
+                    "displayName": "Fujii, Naoki",
+                    "wosStandard": "Fujii, N",
+                    "researcherId": "EXL-0634-2022"
+                }
+            ]
+        },
+        "links": {
+            "record": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000347494700051&DestLinkType=FullRecord&DestApp=WOS_CPL",
+            "citingArticles": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000347494700051&DestLinkType=CitingArticles&DestApp=WOS_CPL",
+            "references": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000347494700051&DestLinkType=CitedReferences&DestApp=WOS",
+            "related": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000347494700051&DestLinkType=RelatedRecords&DestApp=WOS_CPL"
+        },
+        "citations": [
+            {
+                "db": "WOS",
+                "count": 305
+            }
+        ],
+        "identifiers": {
+            "doi": "10.1016/j.marpolbul.2014.09.041",
+            "issn": "0025-326X",
+            "eissn": "1879-3363",
+            "pmid": "25287228"
+        },
+        "keywords": {
+            "authorKeywords": [
+                "Microplastics",
+                "Mesoplastics",
+                "Stokes drift",
+                "Terminal velocity",
+                "Selective onshore transport"
+            ]
+        }
+    },
+    {
+        "uid": "WOS:000347494700055",
+        "title": "Macrodebris and microplastics from beaches in Slovenia",
+        "types": [
+            "Article"
+        ],
+        "sourceTypes": [
+            "Article"
+        ],
+        "source": {
+            "sourceTitle": "MARINE POLLUTION BULLETIN",
+            "publishYear": 2014,
+            "publishMonth": "DEC 15",
+            "volume": "89",
+            "issue": "1-2",
+            "pages": {
+                "range": "356-366",
+                "begin": "356",
+                "end": "366",
+                "count": 11
+            }
+        },
+        "names": {
+            "authors": [
+                {
+                    "displayName": "Laglbauer, Betty J. L.",
+                    "wosStandard": "Laglbauer, BJL",
+                    "researcherId": "DUQ-9946-2022"
+                },
+                {
+                    "displayName": "Franco-Santos, Rita Melo",
+                    "wosStandard": "Franco-Santos, RM",
+                    "researcherId": "G-8736-2014"
+                },
+                {
+                    "displayName": "Andreu-Cazenave, Miguel",
+                    "wosStandard": "Andreu-Cazenave, M",
+                    "researcherId": "CCM-5619-2022"
+                },
+                {
+                    "displayName": "Brunelli, Lisa",
+                    "wosStandard": "Brunelli, L",
+                    "researcherId": "CGD-8411-2022"
+                },
+                {
+                    "displayName": "Papadatou, Maria",
+                    "wosStandard": "Papadatou, M",
+                    "researcherId": "ABH-3446-2020"
+                },
+                {
+                    "displayName": "Palatinus, Andreja",
+                    "wosStandard": "Palatinus, A",
+                    "researcherId": "DLD-5968-2022"
+                },
+                {
+                    "displayName": "Grego, Mateja",
+                    "wosStandard": "Grego, M",
+                    "researcherId": "EYG-4172-2022"
+                },
+                {
+                    "displayName": "Deprez, Tim",
+                    "wosStandard": "Deprez, T",
+                    "researcherId": "AAQ-6555-2021"
+                }
+            ]
+        },
+        "links": {
+            "record": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000347494700055&DestLinkType=FullRecord&DestApp=WOS_CPL",
+            "citingArticles": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000347494700055&DestLinkType=CitingArticles&DestApp=WOS_CPL",
+            "references": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000347494700055&DestLinkType=CitedReferences&DestApp=WOS",
+            "related": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000347494700055&DestLinkType=RelatedRecords&DestApp=WOS_CPL"
+        },
+        "citations": [
+            {
+                "db": "WOS",
+                "count": 329
+            }
+        ],
+        "identifiers": {
+            "doi": "10.1016/j.marpolbul.2014.09.036",
+            "issn": "0025-326X",
+            "eissn": "1879-3363",
+            "pmid": "25440193"
+        },
+        "keywords": {
+            "authorKeywords": [
+                "Marine debris",
+                "Plastic",
+                "Pollution",
+                "Tourism",
+                "Human-impact",
+                "Adriatic"
+            ]
+        }
+    },
+    {
+        "uid": "WOS:000346686100018",
+        "title": "Microplastics in Four Estuarine Rivers in the Chesapeake Bay, USA",
+        "types": [
+            "Article"
+        ],
+        "sourceTypes": [
+            "Article"
+        ],
+        "source": {
+            "sourceTitle": "ENVIRONMENTAL SCIENCE & TECHNOLOGY",
+            "publishYear": 2014,
+            "publishMonth": "DEC 16",
+            "volume": "48",
+            "issue": "24",
+            "pages": {
+                "range": "14195-14202",
+                "begin": "14195",
+                "end": "14202",
+                "count": 8
+            }
+        },
+        "names": {
+            "authors": [
+                {
+                    "displayName": "Yonkos, Lance T.",
+                    "wosStandard": "Yonkos, LT",
+                    "researcherId": "EGE-6954-2022"
+                },
+                {
+                    "displayName": "Friedel, Elizabeth A.",
+                    "wosStandard": "Friedel, EA",
+                    "researcherId": "EWM-8603-2022"
+                },
+                {
+                    "displayName": "Perez-Reyes, Ana C.",
+                    "wosStandard": "Perez-Reyes, AC",
+                    "researcherId": "DLT-8791-2022"
+                },
+                {
+                    "displayName": "Ghosal, Sutapa",
+                    "wosStandard": "Ghosal, S",
+                    "researcherId": "EVN-4553-2022"
+                },
+                {
+                    "displayName": "Arthur, Courtney D.",
+                    "wosStandard": "Arthur, CD",
+                    "researcherId": "EKM-7740-2022"
+                }
+            ]
+        },
+        "links": {
+            "record": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000346686100018&DestLinkType=FullRecord&DestApp=WOS_CPL",
+            "citingArticles": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000346686100018&DestLinkType=CitingArticles&DestApp=WOS_CPL",
+            "references": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000346686100018&DestLinkType=CitedReferences&DestApp=WOS",
+            "related": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000346686100018&DestLinkType=RelatedRecords&DestApp=WOS_CPL"
+        },
+        "citations": [
+            {
+                "db": "WOS",
+                "count": 505
+            }
+        ],
+        "identifiers": {
+            "doi": "10.1021/es5036317",
+            "issn": "0013-936X",
+            "eissn": "1520-5851",
+            "pmid": "25389665"
+        },
+        "keywords": {
+            "authorKeywords": []
+        }
+    },
+    {
+        "uid": "WOS:000345489800011",
+        "title": "Microplastic pollution discovered in St. Lawrence River sediments",
+        "types": [
+            "News"
+        ],
+        "sourceTypes": [
+            "News Item"
+        ],
+        "source": {
+            "sourceTitle": "MARINE POLLUTION BULLETIN",
+            "publishYear": 2014,
+            "publishMonth": "NOV 15",
+            "volume": "88",
+            "issue": "1-2",
+            "pages": {
+                "range": "5-6",
+                "begin": "5",
+                "end": "6",
+                "count": 2
+            }
+        },
+        "names": {
+            "anonymous": [
+                {
+                    "displayName": "[Anonymous]"
+                }
+            ]
+        },
+        "links": {
+            "record": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000345489800011&DestLinkType=FullRecord&DestApp=WOS_CPL",
+            "citingArticles": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000345489800011&DestLinkType=CitingArticles&DestApp=WOS_CPL"
+        },
+        "citations": [
+            {
+                "db": "WOS",
+                "count": 6
+            }
+        ],
+        "identifiers": {
+            "issn": "0025-326X",
+            "eissn": "1879-3363",
+            "pmid": "25590075"
+        },
+        "keywords": {
+            "authorKeywords": []
+        }
+    },
+    {
+        "uid": "WOS:000345262900052",
+        "title": "Fate of Microplastics in the Marine lsopod <i>Idotea emarginata</i>",
+        "types": [
+            "Article"
+        ],
+        "sourceTypes": [
+            "Article"
+        ],
+        "source": {
+            "sourceTitle": "ENVIRONMENTAL SCIENCE & TECHNOLOGY",
+            "publishYear": 2014,
+            "publishMonth": "NOV 18",
+            "volume": "48",
+            "issue": "22",
+            "pages": {
+                "range": "13451-13458",
+                "begin": "13451",
+                "end": "13458",
+                "count": 8
+            }
+        },
+        "names": {
+            "authors": [
+                {
+                    "displayName": "Haemer, Julia",
+                    "wosStandard": "Hämer, J",
+                    "researcherId": "JHX-0920-2023"
+                },
+                {
+                    "displayName": "Gutow, Lars",
+                    "wosStandard": "Gutow, L",
+                    "researcherId": "DVR-3597-2022"
+                },
+                {
+                    "displayName": "Koehler, Angela",
+                    "wosStandard": "Köhler, A",
+                    "researcherId": "JGN-3683-2023"
+                },
+                {
+                    "displayName": "Saborowski, Reinhard",
+                    "wosStandard": "Saborowski, R",
+                    "researcherId": "GAI-2531-2022"
+                }
+            ]
+        },
+        "links": {
+            "record": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000345262900052&DestLinkType=FullRecord&DestApp=WOS_CPL",
+            "citingArticles": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000345262900052&DestLinkType=CitingArticles&DestApp=WOS_CPL",
+            "references": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000345262900052&DestLinkType=CitedReferences&DestApp=WOS",
+            "related": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000345262900052&DestLinkType=RelatedRecords&DestApp=WOS_CPL"
+        },
+        "citations": [
+            {
+                "db": "WOS",
+                "count": 220
+            }
+        ],
+        "identifiers": {
+            "doi": "10.1021/es501385y",
+            "issn": "0013-936X",
+            "eissn": "1520-5851",
+            "pmid": "25289587"
+        },
+        "keywords": {
+            "authorKeywords": []
+        }
+    },
+    {
+        "uid": "WOS:000380550000375",
+        "title": "MantaRay: A Novel Autonomous Sampling Instrument for <i>In Situ</i> Measurements of Environmental Microplastic Particle Concentrations",
+        "types": [
+            "Meeting"
+        ],
+        "sourceTypes": [
+            "Proceedings Paper"
+        ],
+        "source": {
+            "sourceTitle": "OCEANS 2015 - MTS/IEEE WASHINGTON",
+            "publishYear": 2015,
+            "pages": {
+                "count": 6
+            }
+        },
+        "names": {
+            "authors": [
+                {
+                    "displayName": "Edson, Ethan C.",
+                    "wosStandard": "Edson, EC",
+                    "researcherId": "ILM-2197-2023"
+                },
+                {
+                    "displayName": "Patterson, Mark R.",
+                    "wosStandard": "Patterson, MR",
+                    "researcherId": "JGD-9646-2023"
+                }
+            ],
+            "bookCorp": [
+                {
+                    "displayName": "IEEE"
+                }
+            ]
+        },
+        "links": {
+            "record": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000380550000375&DestLinkType=FullRecord&DestApp=WOS_CPL",
+            "citingArticles": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000380550000375&DestLinkType=CitingArticles&DestApp=WOS_CPL",
+            "references": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000380550000375&DestLinkType=CitedReferences&DestApp=WOS",
+            "related": "https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=jotace_teste02&SrcAuth=WosAPI&KeyUT=WOS:000380550000375&DestLinkType=RelatedRecords&DestApp=WOS_CPL"
+        },
+        "citations": [
+            {
+                "db": "WOS",
+                "count": 8
+            }
+        ],
+        "identifiers": {
+            "issn": "0197-7385",
+            "eisbn": "978-0-933957-43-5"
+        },
+        "keywords": {
+            "authorKeywords": [
+                "microplastic",
+                "plastic",
+                "pollution",
+                "Arduino",
+                "sensors",
+                "MantaRay"
+            ]
+        }
+    }
+]
