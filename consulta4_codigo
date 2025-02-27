@@ -1,0 +1,57 @@
+db.articles_data.aggregate([
+    {
+      // Filtra apenas os documentos publicados entre 2014 e 2023
+      $match: {
+        "source.publishYear": { $gte: 2014, $lte: 2023 }
+      }
+    },
+    {
+      // Agrupa por ano de publicação e nome do jornal, contando o número de publicações
+      $group: {
+        _id: { year: "$source.publishYear", journal: "$Journal Information.Journal Name" },
+        publicationCount: { $sum: 1 }
+      }
+    },
+    {
+      // Reorganiza o formato do documento para facilitar a visualização
+      $project: {
+        _id: 0,
+        year: "$_id.year",
+        journal: "$_id.journal",
+        publicationCount: 1
+      }
+    },
+    {
+      // Ordena por ano e, dentro de cada ano, pelo número de publicações (descendente)
+      $sort: { year: 1, publicationCount: -1 }
+    },
+    {
+      // Agrupa por ano e mantém apenas os Top 10 jornais com mais publicações em cada ano
+      $group: {
+        _id: "$year",
+        topJournals: {
+          $push: {
+            journal: "$journal",
+            publicationCount: "$publicationCount"
+          }
+        }
+      }
+    },
+    {
+      // Reduz a lista para apenas os 10 primeiros jornais por ano
+      $project: {
+        year: "$_id",
+        topJournals: { $slice: ["$topJournals", 10] }
+      }
+    },
+    {
+      // Ordena os resultados por ano
+      $sort: { year: 1 }
+    }
+  ]).forEach(doc => {
+    print(`Ano: ${doc.year}`);
+    doc.topJournals.forEach((journal, index) => {
+      print(`${index + 1}. ${journal.journal} - ${journal.publicationCount} publicações`);
+    });
+    print("------------------------------------------------------");
+  });

@@ -1,0 +1,62 @@
+db.articles_data.aggregate([
+    {
+      // Filtra os artigos publicados entre 2014 e 2023
+      $match: {
+        "source.publishYear": { $gte: 2014, $lte: 2023 }
+      }
+    },
+    {
+      // Agrupa por ano e por artigo, somando as citações e coletando as informações necessárias
+      $project: {
+        _id: 0,
+        year: "$source.publishYear",
+        title: "$title",
+        citations: "$citations.count",
+        corresponding_address: {
+          country: "$corresponding_addresses.country",
+          region: "$corresponding_addresses.region",
+          intermediate_region: "$corresponding_addresses.intermediate_region",
+          sub_region: "$corresponding_addresses.sub_region"
+        }
+      }
+    },
+    {
+      // Ordena os artigos dentro de cada ano pelo número de citações, de forma decrescente
+      $sort: { year: 1, citations: -1 }
+    },
+    {
+      // Agrupa por ano e mantém apenas os 10 artigos mais citados
+      $group: {
+        _id: "$year",
+        topArticles: {
+          $push: {
+            title: "$title",
+            citations: "$citations",
+            corresponding_address: "$corresponding_address"
+          }
+        }
+      }
+    },
+    {
+      // Reduz a lista para os Top 10 artigos mais citados por ano
+      $project: {
+        year: "$_id",
+        topArticles: { $slice: ["$topArticles", 10] }
+      }
+    },
+    {
+      // Ordena por ano para a exibição final
+      $sort: { year: 1 }
+    }
+  ]).forEach(doc => {
+    print(`Ano: ${doc.year}`);
+    doc.topArticles.forEach((article, index) => {
+      print(`${index + 1}. Artigo: ${article.title}`);
+      print(`   Citações: ${article.citations}`);
+      print(`   País: ${article.corresponding_address.country}`);
+      print(`   Região: ${article.corresponding_address.region}`);
+      print(`   Região Intermediária: ${article.corresponding_address.intermediate_region}`);
+      print(`   Sub-Região: ${article.corresponding_address.sub_region}`);
+    });
+    print("------------------------------------------------------");
+  });

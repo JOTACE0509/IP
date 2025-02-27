@@ -1,0 +1,58 @@
+// Subconjunto 1: Obras que possuem "FTIR"
+const subset1 = db.articles_data.find({
+  $or: [
+    { abstract: { $regex: "\\bFTIR\\b", $options: "i" } },
+    { title: { $regex: "\\bFTIR\\b", $options: "i" } },
+    { "keywords.authorKeywords": { $regex: "\\bFTIR\\b", $options: "i" } }
+  ]
+}).toArray();
+
+// Subconjunto 2: Obras que possuem "microFTIR", "micro-FTIR", "u-FTIR", "uFTIR", "µ-FTIR", "µFTIR"
+const subset2 = db.articles_data.find({
+  $or: [
+    { abstract: { $regex: "\\bmicro[-]?FTIR\\b", $options: "i" } },
+    { abstract: { $regex: "\\bu[-]?FTIR\\b", $options: "i" } },
+    { abstract: { $regex: "\\bµ[-]?FTIR\\b", $options: "i" } },
+    { title: { $regex: "\\bmicro[-]?FTIR\\b", $options: "i" } },
+    { title: { $regex: "\\bu[-]?FTIR\\b", $options: "i" } },
+    { title: { $regex: "\\bµ[-]?FTIR\\b", $options: "i" } },
+    { "keywords.authorKeywords": { $regex: "\\bmicro[-]?FTIR\\b", $options: "i" } },
+    { "keywords.authorKeywords": { $regex: "\\bu[-]?FTIR\\b", $options: "i" } },
+    { "keywords.authorKeywords": { $regex: "\\bµ[-]?FTIR\\b", $options: "i" } }
+  ]
+}).toArray();
+
+// Subconjunto 3: Obras que possuem "%FTIR%" (qualquer coisa antes ou depois de "FTIR")
+const subset3 = db.articles_data.find({
+  $and: [
+    {
+      $or: [
+        { abstract: { $regex: "FTIR", $options: "i" } },
+        { title: { $regex: "FTIR", $options: "i" } },
+        { "keywords.authorKeywords": { $regex: "FTIR", $options: "i" } }
+      ]
+    },
+    {
+      $nor: [
+        { abstract: { $regex: "\\bFTIR\\b", $options: "i" } },
+        { title: { $regex: "\\bFTIR\\b", $options: "i" } },
+        { "keywords.authorKeywords": { $regex: "\\bFTIR\\b", $options: "i" } }
+      ]
+    }
+  ]
+}).toArray();
+
+// Subconjunto 4: Obras que possuem "microinfrared" ou "micro-infrared"
+const subset4 = db.articles_data.find({
+  $or: [
+    { abstract: { $regex: "\\bmicro[-]?infrared\\b", $options: "i" } },
+    { title: { $regex: "\\bmicro[-]?infrared\\b", $options: "i" } },
+    { "keywords.authorKeywords": { $regex: "\\bmicro[-]?infrared\\b", $options: "i" } }
+  ]
+}).toArray();
+
+// Exibindo os subconjuntos
+print("Subconjunto 1 - FTIR:", JSON.stringify(subset1, null, 2));
+print("Subconjunto 2 - microFTIR variations:", JSON.stringify(subset2, null, 2));
+print("Subconjunto 3 - %FTIR%:", JSON.stringify(subset3, null, 2));
+print("Subconjunto 4 - microinfrared variations:", JSON.stringify(subset4, null, 2));

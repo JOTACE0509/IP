@@ -1,0 +1,69 @@
+db.articles_data.aggregate([
+  {
+    $facet: {
+      "Subconjunto_1_Somente_FTIR": [
+        {
+          $match: {
+            $or: [
+              { abstract: { $regex: "\\bFTIR\\b", $options: "i" } },
+              { title: { $regex: "\\bFTIR\\b", $options: "i" } },
+              { "keywords.authorKeywords": { $regex: "\\bFTIR\\b", $options: "i" } }
+            ]
+          }
+        },
+        {
+          $unwind: "$corresponding_addresses"
+        },
+        {
+          $project: {
+            _id: 0,
+            country: "$corresponding_addresses.country",
+            region: "$corresponding_addresses.region",
+            sub_region: "$corresponding_addresses.sub_region",
+            intermediate_region: "$corresponding_addresses.intermediate_region",
+          }
+        }
+      ],
+      "Subconjunto_2_FTIR_Like_And_Microinfrared": [
+        {
+          $match: {
+            $and: [
+              {
+                $or: [
+                  { abstract: { $regex: "FTIR", $options: "i" } },
+                  { title: { $regex: "FTIR", $options: "i" } },
+                  { "keywords.authorKeywords": { $regex: "FTIR", $options: "i" } },
+                  { abstract: { $regex: "microinfrared", $options: "i" } },
+                  { title: { $regex: "microinfrared", $options: "i" } },
+                  { "keywords.authorKeywords": { $regex: "microinfrared", $options: "i" } },
+                  { abstract: { $regex: "micro-infrared", $options: "i" } },
+                  { title: { $regex: "micro-infrared", $options: "i" } },
+                  { "keywords.authorKeywords": { $regex: "micro-infrared", $options: "i" } }
+                ]
+              },
+              {
+                $nor: [
+                  { abstract: { $regex: "\\bFTIR\\b", $options: "i" } },
+                  { title: { $regex: "\\bFTIR\\b", $options: "i" } },
+                  { "keywords.authorKeywords": { $regex: "\\bFTIR\\b", $options: "i" } }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          $unwind: "$corresponding_addresses"
+        },
+        {
+          $project: {
+            _id: 0,
+            country: "$corresponding_addresses.country",
+            region: "$corresponding_addresses.region",
+            sub_region: "$corresponding_addresses.sub_region",
+            intermediate_region: "$corresponding_addresses.intermediate_region",
+          }
+        }
+      ]
+    }
+  }
+]);
